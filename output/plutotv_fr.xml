@@ -3152,15 +3152,10 @@
         <desc>Règlements de comptes en série, affaires de corruptions, de clientélisme et de détournements de fonds : pourquoi la cité phocéenne est-elle devenue à ce point ingérable ? Qui fait la loi à Marseille ?</desc>
         <icon src="https://images.pluto.tv/series/68b6fa00cfeec4dc2cbd25b4/tile_1790870939074.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63921a1bf76e7d0007c998a6" start="20261102152400 +0000" stop="20261102170000 +0000">
-        <title>Transports en commun : en route pour la galère</title>
-        <desc>Retards, pickpockets, agressions, grèves à répétition poussent à bout les millions d'usagers des transports en commun. Entre courses-poursuites et filatures, rencontre avec les policiers qui tentent de faire régner l'ordre dans les transports.</desc>
-        <icon src="https://images.pluto.tv/series/6634af33e2566e00130f5b08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63921a1bf76e7d0007c998a6" start="20261102170000 +0000" stop="20261102175300 +0000">
-        <title>Légion impitoyable</title>
-        <desc>À Castelnaudary, dans l'Aude, une caserne de la Légion étrangère forme 56 futurs soldats volontaires pendant quatre mois. Cependant, les tests de la Légion sont réputés pour être parmi les plus durs de l'armée.</desc>
-        <icon src="https://images.pluto.tv/series/6613b9cfa7a31d00170cccd0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="63921a1bf76e7d0007c998a6" start="20261102152400 +0000" stop="20261102172400 +0000">
+        <title>Enquêtes de Choc</title>
+        <desc>Retrouvez le meilleur du reportage 100% action : investigation, enquêtes sans concession, des sujets forts, des reportages spectaculaires. Découvrez en immersion la face cachée de votre quotidien.</desc>
+        <icon src="https://images.pluto.tv/series/6613b9f1a7a31d00170cf9f5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63921a3d00c96100082a3cb4" start="20261102124000 +0000" stop="20261102133600 +0000">
         <title>Les nouveaux détectives</title>
@@ -33969,12 +33964,27 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Weekly highlight series featuring big moments and plays from every NFL game from week seven of the 2026 NFL season.</desc>
         <icon src="https://images.pluto.tv/series/6a6c647ecd7852640b205e28/tile_1785488511492.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6a6a02bd93ac783fe20d1bf7" start="20261103133000 +0000" stop="20261103140000 +0000">
+        <title>The NFL Report</title>
+        <desc>The NFL Report is NFL Channel's news and information show; hosted by veteran NFL anchor Andrew Siciliano, the show delivers reporting, analysis and insight on stories and developments from around the NFL.</desc>
+        <icon src="https://images.pluto.tv/series/6a7e1b7b323bf2ec8cb42ef6/tile_1786649468832.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed2d1c34c2300073bf02c" start="20261103124930 +0000" stop="20261103131357 +0000">
         <title>Blue Mountain State</title>
         <desc>L'équipe apprend qu'elle va subir un test de dépistage alors les joueurs tentent de rester sobres pendant trois jours, mais ils ne peuvent pas fonctionner normalement.</desc>
         <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed2d1c34c2300073bf02c" start="20261103131357 +0000" stop="20261103170000 +0000">
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20261103131357 +0000" stop="20261103133830 +0000">
+        <title>Blue Mountain State</title>
+        <desc>L'équipe est invitée à aller jouer un match en Louisiane. Thad prévient tout le monde des tactiques que l'autre équipe pourrait utiliser pour saboter BMS, y compris empoisonner leur nourriture et envoyer leurs cheerleaders les séduire.</desc>
+        <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20261103133830 +0000" stop="20261103140259 +0000">
+        <title>Blue Mountain State</title>
+        <desc>Après s'être fait sodomiser pendant une mêlée à l'entraînement, Thad se lance dans une enquête pour savoir qui l'a violé, alors que la version de chaque équipier contredit celle de l'autre.</desc>
+        <icon src="https://images.pluto.tv/series/66acddf057d82b001347c06b/tile_1774605960777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20261103140259 +0000" stop="20261103170000 +0000">
         <title>Series by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/featuredImage_1775048963457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33984,7 +33994,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>C’est dans un contexte tendu que l’Unité choisit sa nouvelle affaire : un jeune Afro-Américain vient d’être abattu par la police.</desc>
         <icon src="https://images.pluto.tv/series/691d87103fb09016da577945/tile_1784810522675.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20261103131903 +0000" stop="20261103170000 +0000">
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20261103131903 +0000" stop="20261103140610 +0000">
+        <title>Conviction</title>
+        <desc>Wallace impose une affaire délicate à Hayes et son unité   : Léo Scarlata, atteint de déficience intellectuelle, condamné pour l'incendie du restaurant de sa famille, qui avait fait un mort et un blessé.</desc>
+        <icon src="https://images.pluto.tv/series/691d87103fb09016da577945/tile_1784810522675.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20261103140610 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Polar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -33994,7 +34009,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Les Rangers semblent impuissants face à une série de braquages très médiatisés réalisés par des hommes masqués. L'enquête prend une tournure personnelle lorsque l'ami de Walker, le Ranger Logan Reno, est tué.</desc>
         <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa749ac7f3200078adb40" start="20261103134900 +0000" stop="20261103170000 +0000">
+    <programme channel="60afa749ac7f3200078adb40" start="20261103134900 +0000" stop="20261103144100 +0000">
+        <title>Walker Texas Ranger: Mascarade meurtrière (Partie 2)</title>
+        <desc>Les Rangers semblent impuissants face à une série de braquages très médiatisés réalisés par des hommes masqués. L'enquête prend une tournure personnelle lorsque l'ami de Walker, le Ranger Logan Reno, est tué.</desc>
+        <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa749ac7f3200078adb40" start="20261103144100 +0000" stop="20261103170000 +0000">
         <title>Walker Texas Ranger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34004,7 +34024,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>CJ et Stephanie se rendent sur l’île de Catalina pour passer un week-end entre filles, et y découvrent finalement deux charmants jeunes hommes, et risquent leur vie pendant une plongée.</desc>
         <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afaa535580be0007ac9ee4" start="20261103132800 +0000" stop="20261103170000 +0000">
+    <programme channel="60afaa535580be0007ac9ee4" start="20261103132800 +0000" stop="20261103141500 +0000">
+        <title>Alerte à Malibu: Immersion</title>
+        <desc>Mitch sauve deux jeunes garçons de la noyade, mais l’un des deux tombe dans le coma. Alors qu’il attend nerveusement son réveil, Mitch remet en question son métier de sauveteur.</desc>
+        <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afaa535580be0007ac9ee4" start="20261103141500 +0000" stop="20261103170000 +0000">
         <title>Alerte à Malibu</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34014,7 +34039,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Un feuilleton de fantômes fait sensation en ville, et quand la photo du personnel prise par Susy révèle des éléments inattendus, cette dernière se persuade que le Paradis est hanté.</desc>
         <icon src="https://images.pluto.tv/series/6127422f256bf20015afc2b6/tile_1768080602047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35a74c63c3c0008df6a90" start="20261103131848 +0000" stop="20261103170000 +0000">
+    <programme channel="60d35a74c63c3c0008df6a90" start="20261103131848 +0000" stop="20261103141848 +0000">
+        <title>Le Paradis : Saison 2: Épisode 8</title>
+        <desc>Clémence revient et apporte ses problèmes dans un Paradis déjà perturbé. Tom fait étalage de sa réconciliation avec Clémence devant une Katherine désespérée.</desc>
+        <icon src="https://images.pluto.tv/series/6127422f256bf20015afc2b6/tile_1768080602047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35a74c63c3c0008df6a90" start="20261103141848 +0000" stop="20261103170000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/featuredImage_1771579997925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34024,7 +34054,22 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Tim s’intéresse à Marco, mais pour une raison inattendue.</desc>
         <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e71322f5f180007001dde" start="20261103130100 +0000" stop="20261103170000 +0000">
+    <programme channel="611e71322f5f180007001dde" start="20261103130100 +0000" stop="20261103132600 +0000">
+        <title>Degrassi : La Nouvelle Génération: Le Week-end du club de l'amitié</title>
+        <desc>C'est bientôt l'anniversaire de la fusillade, et chacun se rappelle de la tragédie.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20261103132600 +0000" stop="20261103135100 +0000">
+        <title>Degrassi : La Nouvelle Génération: Vertiges d'amour (1ère partie)</title>
+        <desc>La première du film aura lieu ce soir, et la fièvre du cinéma s’est emparée de toute l’école !</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20261103135100 +0000" stop="20261103141600 +0000">
+        <title>Degrassi : La Nouvelle Génération: Vertiges d'amour (2ème partie)</title>
+        <desc>Paige réveille Alex qui a passé la nuit dans son lit. Paige a dormi par terre. Les deux filles se préparent en évitant d’aborder le sujet tabou.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20261103141600 +0000" stop="20261103170000 +0000">
         <title>Degrassi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e71322f5f180007001dde/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34044,7 +34089,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
         <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1788166082010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245ccd0c6cdb800074632e4" start="20261103135000 +0000" stop="20261103170000 +0000">
+    <programme channel="6245ccd0c6cdb800074632e4" start="20261103135000 +0000" stop="20261103144600 +0000">
+        <title>MacGyver: Rencontre explosive</title>
+        <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
+        <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1788166082010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245ccd0c6cdb800074632e4" start="20261103144600 +0000" stop="20261103170000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34054,7 +34104,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Les bibliothécaires enquêtent sur une célèbre discothèque londonienne dont les jeunes clients se retrouvent victimes d’évènements très étranges.</desc>
         <icon src="https://images.pluto.tv/series/679c7ecc15e36300140629cf/tile_1774604521142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="625ec7a1c853fd00073b38fd" start="20261103133749 +0000" stop="20261103170000 +0000">
+    <programme channel="625ec7a1c853fd00073b38fd" start="20261103133749 +0000" stop="20261103142611 +0000">
+        <title>Flynn Carson et les Nouveaux Aventuriers</title>
+        <desc>En enquêtant sur une étrange source d’énergie qui transforme des chercheurs en monstres sans cervelle, les bibliothécaires vont se retrouver coincés dans une boucle temporelle.</desc>
+        <icon src="https://images.pluto.tv/series/679c7ecc15e36300140629cf/tile_1774604521142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625ec7a1c853fd00073b38fd" start="20261103142611 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Séries Fantastiques</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/featuredImage_1775048560569.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34064,7 +34119,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>L'enquête de Ben et Sami sur l'assassinat de leur Oliver Strum se poursuit. Leur principal suspect est un jeune lycéen de 18 ans, Max, aperçu à proximité du corps de la victime, un couteau ensanglanté entre les mains.</desc>
         <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1774603441178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e4bc08f5ec000744f552" start="20261103132500 +0000" stop="20261103170000 +0000">
+    <programme channel="62f3e4bc08f5ec000744f552" start="20261103132500 +0000" stop="20261103142000 +0000">
+        <title>Alerte Cobra un duo explosif: Menace sur la ville</title>
+        <desc>Pour Ben et Sami, c'est une véritable course contre la montre qui s'engage. Un dangereux psychopathe menace d'irradier toute la ville. Mais Sami apprend que l'homme est aussi le seul donneur potentiel pour une greffe de moelle osseuse.</desc>
+        <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1774603441178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e4bc08f5ec000744f552" start="20261103142000 +0000" stop="20261103170000 +0000">
         <title>Alerte Cobra</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34074,7 +34134,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>La veille de Noël, Harm se rend comme chaque année au mémorial du Viêt Nam pour honorer la mémoire de son père, abattu la veille de Noël 1969. Au mémorial, Harm rencontre une femme belle mais mystérieuse, qui prétend avoir connu Harm.</desc>
         <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1785878641517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ccd26060eb870008db95fc" start="20261103134415 +0000" stop="20261103170000 +0000">
+    <programme channel="65ccd26060eb870008db95fc" start="20261103134415 +0000" stop="20261103143425 +0000">
+        <title>Jag: Un cas d'école</title>
+        <desc>Harm et Mac tombent sur une erreur judiciaire dans une affaire vieille de dix ans alors qu'ils donnent des cours à un groupe d'étudiants en droit dans le cadre d'un procès fictif.</desc>
+        <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1785878641517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ccd26060eb870008db95fc" start="20261103143425 +0000" stop="20261103170000 +0000">
         <title>JAG</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34084,7 +34149,17 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Eddie fait du patin déguisé en pingouin pour des spectacles sur glace, et invite Carla à Seattle.</desc>
         <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1785368886740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cce14060eb870008dbd003" start="20261103131928 +0000" stop="20261103170000 +0000">
+    <programme channel="65cce14060eb870008dbd003" start="20261103131928 +0000" stop="20261103134608 +0000">
+        <title>Cheers</title>
+        <desc>Lilith se venge de Frasier pour lui avoir demandé de signer un contrat prénuptial.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1785368886740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20261103134608 +0000" stop="20261103141249 +0000">
+        <title>Cheers</title>
+        <desc>Cliff tente de sauver la maison de son enfance de la démolition.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1785368886740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20261103141249 +0000" stop="20261103170000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce14060eb870008dbd003/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34094,7 +34169,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Un procureur de district se heurte à un avocat qui accepte de défendre un ami accusé de vol.</desc>
         <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1774603801094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cce23bdc10a400080645ad" start="20261103131534 +0000" stop="20261103170000 +0000">
+    <programme channel="65cce23bdc10a400080645ad" start="20261103131534 +0000" stop="20261103141223 +0000">
+        <title>Highway to Heaven</title>
+        <desc>Mark retourne à Oakland pour redevenir policier et retrouve son ancien partenaire.</desc>
+        <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1774603801094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce23bdc10a400080645ad" start="20261103141223 +0000" stop="20261103170000 +0000">
         <title>Les Routes du Paradis</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce23bdc10a400080645ad/featuredImage_1756898911225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34104,7 +34184,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>La star invitée Anne Francis rejoint le FMI lorsqu'il entreprend d'empêcher la destruction d'une formule secrète vitale pour le système de défense antimissile américain.</desc>
         <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6671b21ffc3a46000857fe75" start="20261103130338 +0000" stop="20261103170000 +0000">
+    <programme channel="6671b21ffc3a46000857fe75" start="20261103130338 +0000" stop="20261103140056 +0000">
+        <title>Mission: Impossible</title>
+        <desc>Pour localiser un trésor d'argent volé, le FMI emmène le seul homme qui connaît sa cachette dans un étrange voyage sous-marin.</desc>
+        <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b21ffc3a46000857fe75" start="20261103140056 +0000" stop="20261103170000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34114,7 +34199,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Karine, une jeune championne automobile à l’avenir prometteur, vient d’être victime d’une sortie de route lors d’un grand prix</desc>
         <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1784820242634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6671b26836a2f90008d9333c" start="20261103135423 +0000" stop="20261103170000 +0000">
+    <programme channel="6671b26836a2f90008d9333c" start="20261103135423 +0000" stop="20261103144432 +0000">
+        <title>Diane Femme Flic</title>
+        <desc>Quelques mois après la mort de son mari, notre héroïne est confrontée à une nouvelle épreuve: Marie-Laure, sa meilleure amie, est prise en otage dans un magasin, apparemment au cours d’un braquage qui a mal tourné</desc>
+        <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1784820242634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b26836a2f90008d9333c" start="20261103144432 +0000" stop="20261103170000 +0000">
         <title>Diane, femme flic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34124,7 +34214,17 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
         <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b227b446762a000846c208" start="20261103132156 +0000" stop="20261103170000 +0000">
+    <programme channel="66b227b446762a000846c208" start="20261103132156 +0000" stop="20261103135156 +0000">
+        <title>Z Nation</title>
+        <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
+        <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20261103135156 +0000" stop="20261103142156 +0000">
+        <title>Z Nation</title>
+        <desc>Un monde post-apocalyptique sans concession. Plongez dans l'univers brutal de Z Nation et découvrez les conséquences d'une pandémie zombie. Entre survie, trahison et espoir, cette série vous fera réfléchir sur la nature humaine.</desc>
+        <icon src="https://images.pluto.tv/series/66f536f0747bfa000851d803/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20261103142156 +0000" stop="20261103170000 +0000">
         <title>Z Nation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b227b446762a000846c208/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34134,7 +34234,17 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Kel est embauché dans une beignerie. Son aventure commence par une inspiration géniale qui le mène à un nouveau donut mais se termine en eau de boudin.</desc>
         <icon src="https://images.pluto.tv/series/602b895cf5408c001a4f77a3/tile_1786440601343.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b4990746762a00084c2f78" start="20261103132215 +0000" stop="20261103170000 +0000">
+    <programme channel="66b4990746762a00084c2f78" start="20261103132215 +0000" stop="20261103134701 +0000">
+        <title>Sabrina The Teenage Witch</title>
+        <desc>Zelda se présente à l'élection du conseil municipal contre Robert Russell. Sabrina écrit un article selon lequel Russel achèterait les voix de ses électeurs.</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1783621441863.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20261103134701 +0000" stop="20261103141157 +0000">
+        <title>Sabrina The Teenage Witch</title>
+        <desc>Sabrina souhaiterait dire à Josh qu'elle l'aime mais à chaque fois qu'elle essaye sa voix se transforme et Josh a l'impression qu'elle se moque de lui.</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1783621441863.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20261103141157 +0000" stop="20261103170000 +0000">
         <title>Pluto TV 90's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b4990746762a00084c2f78/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34144,7 +34254,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>L'équipe d'unité d'intervention d'élite débarque dans un hôpital psychiatrique à la suite d'une agression à l'arme blanche.</desc>
         <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1787161336638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71ff86b63480008cf15c5" start="20261103134553 +0000" stop="20261103170000 +0000">
+    <programme channel="66d71ff86b63480008cf15c5" start="20261103134553 +0000" stop="20261103143530 +0000">
+        <title>Flashpoint</title>
+        <desc>Parker apprend qu'il est mis à pied. Un homme qui s'est introduit dans les locaux d'un laboratoire de recherche prend Jules en otage.</desc>
+        <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1787161336638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71ff86b63480008cf15c5" start="20261103143530 +0000" stop="20261103170000 +0000">
         <title>Flashpoint</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34154,7 +34269,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Un homme voit sa famille dérobée et agressée devant ses yeux, l'assaillant est abattu. Les Reagan se demandent alors jusqu'où ils iraient pour défendre leur famille.</desc>
         <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1781515081689.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55a9a747bfa0008521859" start="20261103133249 +0000" stop="20261103170000 +0000">
+    <programme channel="66f55a9a747bfa0008521859" start="20261103133249 +0000" stop="20261103141737 +0000">
+        <title>Blue Bloods</title>
+        <desc>Un inspecteur et ami des Reagan est tué. Linda et les garçons s'inquiètent pour Danny, qui en fait une affaire personnelle, au détriment de sa santé mentale.</desc>
+        <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1781515081689.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55a9a747bfa0008521859" start="20261103141737 +0000" stop="20261103170000 +0000">
         <title>Blue Bloods</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34164,7 +34284,17 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>C'est la première fois que Chris s'intéresse vraiment à la Saint Valentin, mais il ne trouve que des cartes d'insultes dans son casier, alors que son frère Drew a des dizaines de prétendantes !</desc>
         <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1783929241490.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b4a21a5ca760802d25fd" start="20261103131601 +0000" stop="20261103170000 +0000">
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20261103131601 +0000" stop="20261103133834 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Le titre de champion du jeu vidéo astéroïde, la fierté de Chris, est remis en jeu. Pendant ce temps, Julius et Rochelle acceptent de renoncer à quelques plaisirs coupables.</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1783929241490.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20261103133834 +0000" stop="20261103140036 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Chris rate son examen de math, mais il change sa note avant de montrer son carnet à ses parents. De son côté, Julius se remet de la goutte en restant à la maison et en regardant des séries télé.</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1783929241490.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20261103140036 +0000" stop="20261103170000 +0000">
         <title>Tout le monde déteste Chris</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/featuredImage_1747394750365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34184,7 +34314,17 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Kurt Kraus, un homme sportif dans la force de l'âge, meurt écrasé par un container dans l'usine où il travaille. Comme cette mort n'est peut-être pas accidentelle, Brandtner mène l'enquête.</desc>
         <icon src="https://images.pluto.tv/series/6a0d6733aac2f7c6ecc1763e/tile_1779263284589.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b332aa4385c191ee44b57" start="20261103130012 +0000" stop="20261103170000 +0000">
+    <programme channel="691b332aa4385c191ee44b57" start="20261103130012 +0000" stop="20261103135552 +0000">
+        <title>Rex, chien flic</title>
+        <desc>Le Dr Pfeifer, un psychologue, a un étrange patient, Max Binder. Depuis la mort de sa femme, ce dernier est hanté par des cauchemars dans lesquels il tue des gens pour se venger.</desc>
+        <icon src="https://images.pluto.tv/series/6a0d6733aac2f7c6ecc1763e/tile_1779263284589.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b332aa4385c191ee44b57" start="20261103135552 +0000" stop="20261103145121 +0000">
+        <title>Rex, chien flic</title>
+        <desc>Une étudiante en art est découverte battue à mort. Le couple Ebner avait engagé la jeune fille comme baby-sitter pour cette même journée, pour leur fille âgée de trois semaines, laquelle a disparu sans laisser de traces</desc>
+        <icon src="https://images.pluto.tv/series/6a0d6733aac2f7c6ecc1763e/tile_1779263284589.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b332aa4385c191ee44b57" start="20261103145121 +0000" stop="20261103170000 +0000">
         <title>Rex, chien flic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/featuredImage_1771320317678.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34194,7 +34334,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Bárbara pousse Carla à se débarrasser de Jacobo. Inigo tente de parler à Matilde, qui refuse. Les sœurs Valbuena se réconcilient grâce à César. Teresa perd les clés du salon et Lázara en profite pour la déstabiliser.</desc>
         <icon src="https://images.pluto.tv/series/6a228909114ca7fcbec3504f/tile_1780648202040.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b334a1308fa77bb056b0e" start="20261103130218 +0000" stop="20261103170000 +0000">
+    <programme channel="691b334a1308fa77bb056b0e" start="20261103130218 +0000" stop="20261103141118 +0000">
+        <title>La Moderna</title>
+        <desc>Jacobo exige sa part de l'empire Morcuende, Carla refuse. Fabio annonce que la proclamation de la République semble imminente. Teresa et Don Fermin acceptent d'avoir deux responsables à la Moderna. Antonia et Pietro officialisent leur relation.</desc>
+        <icon src="https://images.pluto.tv/series/6a228909114ca7fcbec3504f/tile_1780648202040.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b334a1308fa77bb056b0e" start="20261103141118 +0000" stop="20261103170000 +0000">
         <title>La Moderna</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b334a1308fa77bb056b0e/featuredImage_1771231492608.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34204,7 +34349,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Un conflit familial violent entre un père et son fils oblige la PJ à jouer les médiateurs sous haute tension.</desc>
         <icon src="https://images.pluto.tv/series/69b16cf46d7de5ca36a5b1af/tile_1773235445789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec71425eaa17b6daf2a11" start="20261103133541 +0000" stop="20261103170000 +0000">
+    <programme channel="692ec71425eaa17b6daf2a11" start="20261103133541 +0000" stop="20261103143703 +0000">
+        <title>PJ</title>
+        <desc>Une course contre la montre pour sauver une personne suicidaire ou en danger immédiat dans le quartier.</desc>
+        <icon src="https://images.pluto.tv/series/69b16cf46d7de5ca36a5b1af/tile_1773235445789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec71425eaa17b6daf2a11" start="20261103143703 +0000" stop="20261103170000 +0000">
         <title>PJ</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec71425eaa17b6daf2a11/featuredImage_1778222500950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34214,7 +34364,12 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Audrey envisage de retourner en Californie chez ses parents. De leur côté, Joey et Pacey s'apprêtent à prendre une décision susceptible de bouleverser leurs projets. Mais auparavant, Dawson les invite à dîner...</desc>
         <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69aadc5551df9542f2521e1a" start="20261103134701 +0000" stop="20261103170000 +0000">
+    <programme channel="69aadc5551df9542f2521e1a" start="20261103134701 +0000" stop="20261103143513 +0000">
+        <title>Dawson</title>
+        <desc>A Worthington, Joey fait la connaissance de Greg Hetson, un professeur d'anglais. Elle veut lui prouver qu'elle est capable d'intégrer sa classe. Plus tard, elle retrouve Dawson...</desc>
+        <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69aadc5551df9542f2521e1a" start="20261103143513 +0000" stop="20261103170000 +0000">
         <title>Dawson</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/featuredImage_1775658935857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34224,7 +34379,22 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Jenna et ses amis gâche une fête d'Halloween. Sadie, de son côté, récupère un trophée qui, selon elle, devait lui revenir...</desc>
         <icon src="https://images.pluto.tv/series/600a8532b2c9b7001a3e2cea/tile_1780413841384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c2ad7500a8d7d87767d25f" start="20261103130931 +0000" stop="20261103170000 +0000">
+    <programme channel="69c2ad7500a8d7d87767d25f" start="20261103130931 +0000" stop="20261103133231 +0000">
+        <title>Awkward: Excès de Culpabilité</title>
+        <desc>Jenna se rend au bal de la rentrée de son école. Lorsque les couples sont mis en avant, Jenna culpabilise par rapport aux célibataires...</desc>
+        <icon src="https://images.pluto.tv/series/600a8532b2c9b7001a3e2cea/tile_1780413841384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c2ad7500a8d7d87767d25f" start="20261103133231 +0000" stop="20261103135531 +0000">
+        <title>Awkward: Chair à vif et Sentiments Troubles</title>
+        <desc>Jenna accepte un défi embarrassant : elle doit révéler un de ses secrets lors d'une soirée. Elle est déstabilisée lorsqu'elle aperçoit ses parents dans le public...</desc>
+        <icon src="https://images.pluto.tv/series/600a8532b2c9b7001a3e2cea/tile_1780413841384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c2ad7500a8d7d87767d25f" start="20261103135531 +0000" stop="20261103145650 +0000">
+        <title>Wild Horses</title>
+        <desc>Osvald convainc Mario de ramener Hana à la ferme. Zuzka coupe court à l’idée de Maros de construire une maison. Danka ignore Karol. Misko s’immisce dans le voyage d’affaires d’Imro. Suso dispute l’attention de Misko à Adela.</desc>
+        <icon src="https://images.pluto.tv/series/6a3bac09ce1637b4f494c0b6/tile_1782295562152.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c2ad7500a8d7d87767d25f" start="20261103145650 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Girls Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c2ad7500a8d7d87767d25f/featuredImage_1780925384785.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34234,7 +34404,17 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>ADRENALINE SPICA LIFE la chaine dédiée à l’action, l’enquête et les faits divers. Au programme 24h sur 2, reportages et documentaires sur les thèmes : Police – Gendarmerie, Enquêtes, True Crime, Justice.</desc>
         <icon src="https://images.pluto.tv/series/6aa3c3f720ec28a21ac1bc6e/tile_1789117550868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a3a9ad35304e3244456d376" start="20261103133000 +0000" stop="20261103170000 +0000">
+    <programme channel="6a3a9ad35304e3244456d376" start="20261103133000 +0000" stop="20261103140000 +0000">
+        <title>Adrenaline SPICA Life</title>
+        <desc>ADRENALINE SPICA LIFE la chaine dédiée à l’action, l’enquête et les faits divers. Au programme 24h sur 2, reportages et documentaires sur les thèmes : Police – Gendarmerie, Enquêtes, True Crime, Justice.</desc>
+        <icon src="https://images.pluto.tv/series/6aa3c3f720ec28a21ac1bc6e/tile_1789117550868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a3a9ad35304e3244456d376" start="20261103140000 +0000" stop="20261103143000 +0000">
+        <title>Adrenaline SPICA Life</title>
+        <desc>ADRENALINE SPICA LIFE la chaine dédiée à l’action, l’enquête et les faits divers. Au programme 24h sur 2, reportages et documentaires sur les thèmes : Police – Gendarmerie, Enquêtes, True Crime, Justice.</desc>
+        <icon src="https://images.pluto.tv/series/6aa3c3f720ec28a21ac1bc6e/tile_1789117550868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a3a9ad35304e3244456d376" start="20261103143000 +0000" stop="20261103170000 +0000">
         <title>Adrenaline Spica Life</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a3a9ad35304e3244456d376/featuredImage_1789116626806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34244,7 +34424,17 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Le meilleur du tennis, 24h/24 et 7j/7 ! Matchs en direct, rencontres mythiques, reportages exclusifs et documentaires... Tout ce que les fans de tennis attendent, réunis sur une seule chaîne. Vivez le tennis comme jamais auparavant.</desc>
         <icon src="https://images.pluto.tv/series/6aaa6688fad3326545355225/tile_1789552278047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a43ab7bfd93e35b5dadb67e" start="20261103132752 +0000" stop="20261103170000 +0000">
+    <programme channel="6a43ab7bfd93e35b5dadb67e" start="20261103132752 +0000" stop="20261103135752 +0000">
+        <title>Tennis Channel - Live</title>
+        <desc>Le meilleur du tennis, 24h/24 et 7j/7 ! Matchs en direct, rencontres mythiques, reportages exclusifs et documentaires... Tout ce que les fans de tennis attendent, réunis sur une seule chaîne. Vivez le tennis comme jamais auparavant.</desc>
+        <icon src="https://images.pluto.tv/series/6aaa6688fad3326545355225/tile_1789552278047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43ab7bfd93e35b5dadb67e" start="20261103135752 +0000" stop="20261103142752 +0000">
+        <title>Tennis Channel - Live</title>
+        <desc>Le meilleur du tennis, 24h/24 et 7j/7 ! Matchs en direct, rencontres mythiques, reportages exclusifs et documentaires... Tout ce que les fans de tennis attendent, réunis sur une seule chaîne. Vivez le tennis comme jamais auparavant.</desc>
+        <icon src="https://images.pluto.tv/series/6aaa6688fad3326545355225/tile_1789552278047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43ab7bfd93e35b5dadb67e" start="20261103142752 +0000" stop="20261103170000 +0000">
         <title>Tennis Channel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/featuredImage_1782819767954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34254,7 +34444,22 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>M. Bean s'éprend d'une belle chanteuse. / M. Bean rencontre l'âme sœur.</desc>
         <icon src="https://images.pluto.tv/series/6a855e50ef1ef94779705635/tile_1787125328860.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a43b36c71cbfff7dca50cf3" start="20261103130733 +0000" stop="20261103170000 +0000">
+    <programme channel="6a43b36c71cbfff7dca50cf3" start="20261103130733 +0000" stop="20261103133131 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>Mister Bean réalise son propre film d’horreur avec Mrs Wicket en vedette ! / Mister Bean doit garder le poisson rouge de Mrs Wicket mais Scrapper le chat a très envie de l’aider.</desc>
+        <icon src="https://images.pluto.tv/series/6a855e50ef1ef94779705635/tile_1787125328860.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43b36c71cbfff7dca50cf3" start="20261103133131 +0000" stop="20261103135530 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>Mister Bean gagne une croisière pour deux mais pourra-t-il demeurer sur le bateau ? / Mister Bean espère gagner un peu d’argent liquide à la fête foraine mais ce n’est pas aussi facile qu’il n’y paraît.</desc>
+        <icon src="https://images.pluto.tv/series/6a855e50ef1ef94779705635/tile_1787125328860.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43b36c71cbfff7dca50cf3" start="20261103135530 +0000" stop="20261103143028 +0000">
+        <title>Mr. Bean Animated</title>
+        <desc>L’électricité de Mister Bean est coupée il construit donc une éolienne. / Mister Bean tente de récupérer sa carte bancaire et termine dans le coffre d’une banque./ Mister Bean en a assez des déchets et décide de nettoyer toute la ville lui-même!</desc>
+        <icon src="https://images.pluto.tv/series/6a855e50ef1ef94779705635/tile_1787125328860.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a43b36c71cbfff7dca50cf3" start="20261103143028 +0000" stop="20261103170000 +0000">
         <title>Mr. Bean</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a43b36c71cbfff7dca50cf3/featuredImage_1788185290630.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34264,7 +34469,22 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Adam, Slim et Ludo veulent avoir l’air cool, mais rien ne se passe comme prévu : plan de drague douteux, lunettes improbables et mensonges à répétition.</desc>
         <icon src="https://images.pluto.tv/series/6ab3a1b89abe27364ce39f7b/tile_1790157241714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a6a02ff1b1c90d8bf955701" start="20261103130704 +0000" stop="20261103170000 +0000">
+    <programme channel="6a6a02ff1b1c90d8bf955701" start="20261103130704 +0000" stop="20261103132656 +0000">
+        <title>SODA</title>
+        <desc>Slim et Ludo se prennent pour des experts en amour tandis qu’Adam joue la carte de la maladie pour sécher les cours. Entre rap et délires absurdes, le trio perd vite le contrôle.</desc>
+        <icon src="https://images.pluto.tv/series/6ab3a1b89abe27364ce39f7b/tile_1790157241714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a6a02ff1b1c90d8bf955701" start="20261103132656 +0000" stop="20261103134803 +0000">
+        <title>SODA</title>
+        <desc>Les révisions du bac virent au grand n’importe quoi : Michel se fait coacher, Adam improvise une théorie freudienne et Slim prépare une grande déclaration...</desc>
+        <icon src="https://images.pluto.tv/series/6ab3a1b89abe27364ce39f7b/tile_1790157241714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a6a02ff1b1c90d8bf955701" start="20261103134803 +0000" stop="20261103140926 +0000">
+        <title>SODA</title>
+        <desc>Adam invente un nouveau mensonge pour éviter la signature de son bulletin. Au lycée, le trio cherche le juste équilibre entre lover et bad boy.</desc>
+        <icon src="https://images.pluto.tv/series/6ab3a1b89abe27364ce39f7b/tile_1790157241714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a6a02ff1b1c90d8bf955701" start="20261103140926 +0000" stop="20261103170000 +0000">
         <title>Soda</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a6a02ff1b1c90d8bf955701/featuredImage_1790683275822.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34274,12 +34494,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Une équipe de reconnaissance black ops est envoyée pour enquêter sur le crash d'un avion non identifié. À leur arrivée, ils trouvent d'étranges marques et résidus visibles uniquement en infrarouge.</desc>
         <icon src="https://images.pluto.tv/series/622eebcdffaf83001ad56f2e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ece1a89d79800072510e6" start="20261103130519 +0000" stop="20261103145519 +0000">
-        <title>6 Guns</title>
-        <desc>Une jeune femme engage un chasseur de primes pour lui apprendre le maniement des armes, car elle désire retrouver les hommes qui ont tué sa famille.</desc>
-        <icon src="https://images.pluto.tv/series/616e62fe4c83ec001a8d7c2e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ece1a89d79800072510e6" start="20261103145519 +0000" stop="20261103170000 +0000">
+    <programme channel="5f8ece1a89d79800072510e6" start="20261103130519 +0000" stop="20261103170000 +0000">
         <title>The Asylum</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34319,12 +34534,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>En vidant un grenier, Louis Roman déniche un vase "présumé" Ming. Il doute de son authenticité contrairement à Maryvonne.</desc>
         <icon src="https://images.pluto.tv/series/5f9fbe1b1788de001ad57356/tile_1774604521176.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed6d569d2d4000864a976" start="20261103134500 +0000" stop="20261103152700 +0000">
-        <title>Louis la Brocante: Louis voit double</title>
-        <desc>À l'occasion de l'exposition consacrée aux "Trésors de la Révolution", Théodore de Montalenvert revendique, haut et fort, la propriété d'un bijou ayant, soi-disant, appartenu à ses ancêtres.</desc>
-        <icon src="https://images.pluto.tv/series/5f9fbe1b1788de001ad57356/tile_1774604521176.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f8ed6d569d2d4000864a976" start="20261103152700 +0000" stop="20261103170000 +0000">
+    <programme channel="5f8ed6d569d2d4000864a976" start="20261103134500 +0000" stop="20261103170000 +0000">
         <title>Louis La Brocante</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34334,17 +34544,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Après la trahison d'Etienne, Cathy décide de repartir pour Toulouse. Nathalie, qui a jeté son dévolu sur Sébastien malgré l'existence de Linda, sa fiancée, saute sur l'occasion pour proposer aux filles de s'installer avec elles à la cité universitaire.</desc>
         <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f8de01b479400078fb1e7" start="20261103132600 +0000" stop="20261103135300 +0000">
-        <title>Hélène et les garçons: Ejection</title>
-        <desc>Après le départ d'Etienne, le service administratif de la cité universitaire envoie Martial pour partager la chambre des garçons. Le nouveau venu est sale, vulgaire et sans gêne. Nicolas et Christian cherchent un prétexte pour s'en débarrasser.</desc>
-        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f8de01b479400078fb1e7" start="20261103135300 +0000" stop="20261103142100 +0000">
-        <title>Hélène et les garçons: La gouttière</title>
-        <desc>Johanna veut absolument rapprocher Laly et Sébastien. Elle compte bien sur le voyage de Linda à New York pour favoriser cette nouvelle idylle. Le soir même du départ de sa fiancée, Sébastien se dispute avec elle.</desc>
-        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="604f8de01b479400078fb1e7" start="20261103142100 +0000" stop="20261103170000 +0000">
+    <programme channel="604f8de01b479400078fb1e7" start="20261103132600 +0000" stop="20261103170000 +0000">
         <title>Hélène et les garçons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34354,17 +34554,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Jimmy a confié à Manuela qu'il est amoureux de Cynthia. Manuela est très triste et lorsque ses amis essayent d'en savoir plus, elle éclate en sanglots.</desc>
         <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549c238c3f21000753d3e0" start="20261103132600 +0000" stop="20261103135400 +0000">
-        <title>Le miracle de l'amour: La descente</title>
-        <desc>Tandis que Jimmy et Cynthia vivent le parfait amour, Manuela rencontre trois garçons à la salle de sport et les présente aux filles. Linda la met en garde contre l'un d'entre eux, Bob, qu'elle connaît et qui n'est pas très fréquentable.</desc>
-        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60549c238c3f21000753d3e0" start="20261103135400 +0000" stop="20261103142100 +0000">
-        <title>Le miracle de l'amour: Pente dangereuse</title>
-        <desc>Manuela a découché. Alors que Laly a un très mauvais pressentiment, Jimmy et José vont au local et découvrent la jeune femme sur le sol, dans un piteux état. Elle leur confie qu'elle a été agressée par Bob, Arnaud et Xavier...</desc>
-        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60549c238c3f21000753d3e0" start="20261103142100 +0000" stop="20261103170000 +0000">
+    <programme channel="60549c238c3f21000753d3e0" start="20261103132600 +0000" stop="20261103170000 +0000">
         <title>Le miracle de l'amour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34374,17 +34564,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Les filles font un grand nettoyage pour la venue de la belle-mère de Fanny. De son côté, Marc ne sait comment dissuader son père de lui rendre visite. Alors qu'il demande à Daniel de trouver une solution, Gérard débarque chez les filles, affolé...</desc>
         <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549d97cd7b090007c73314" start="20261103130654 +0000" stop="20261103133609 +0000">
-        <title>Les filles d'à côté: Question d'éducation</title>
-        <desc>Samantha, la belle-mère de Fanny, s'intéresse à tous les hommes. Quant à Alfred, le père de Marc, il a un petit faible pour Magalie...</desc>
-        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60549d97cd7b090007c73314" start="20261103133609 +0000" stop="20261103140409 +0000">
-        <title>Les filles d'à côté: Chassé croisé</title>
-        <desc>Samantha, qui a jeté son dévolu sur Marc, lui propose de venir dîner chez les filles. De son côté, Claire veut aller au restaurant avec Alfred et Daniel. Elle se sert du prétexte que Vincent soit resté chez son père pour se libérer.</desc>
-        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60549d97cd7b090007c73314" start="20261103140409 +0000" stop="20261103170000 +0000">
+    <programme channel="60549d97cd7b090007c73314" start="20261103130654 +0000" stop="20261103170000 +0000">
         <title>Les filles d'à côté</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549d97cd7b090007c73314/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34394,12 +34574,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Isa a eu un enfant naturel que sa mère, Geneviève, et son oncle Marcel élèvent. Elle est tombée sous la coupe de Sylvain, champion de football raté qui veut la mettre sur le trottoir.</desc>
         <icon src="https://images.pluto.tv/series/60599e9a8119a5001a718e14/tile_1768098528060.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549e98061b5f000776866a" start="20261103131118 +0000" stop="20261103140418 +0000">
-        <title>Les cœurs brûlés: Épisode 3</title>
-        <desc>Isa était heureuse d'avoir retrouvé la vie de famille auprès de son fils et de sa mère. Malheureusement, son oncle Marcel était repris par ses démons. Il la suivait partout, l'épiait, et avait parfois des gestes fugitifs...</desc>
-        <icon src="https://images.pluto.tv/series/60599e9a8119a5001a718e14/tile_1768098528060.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60549e98061b5f000776866a" start="20261103140418 +0000" stop="20261103170000 +0000">
+    <programme channel="60549e98061b5f000776866a" start="20261103131118 +0000" stop="20261103170000 +0000">
         <title>Instant Saga</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549e98061b5f000776866a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34409,12 +34584,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Ben doit atteindre Savannah pour son mariage. Mais une mouette percute le moteur de son avion lors du décollage, et tous les autres vols sont annulés à cause d'un ouragan en approche. Il décide donc d'y aller en voiture avec la belle Sara.</desc>
         <icon src="https://images.pluto.tv/series/64e4bb2e445a8a00133c885a/tile_1784040842592.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60812fc8539963000707d1e1" start="20261103130948 +0000" stop="20261103150119 +0000">
-        <title>Joueurs</title>
-        <desc>Ella tombe sous le charme d’Abel, un amant insaisissable qui l’entraîne dans le Paris clandestin des cercles de jeux, où règnent argent et adrénaline. Ce qui n’était qu’un pari devient entre eux une passion dévorante.</desc>
-        <icon src="https://images.pluto.tv/series/6980868eacf7dd3dc4907d37/tile_1770030735507.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60812fc8539963000707d1e1" start="20261103150119 +0000" stop="20261103170000 +0000">
+    <programme channel="60812fc8539963000707d1e1" start="20261103130948 +0000" stop="20261103170000 +0000">
         <title>Ciné Romance by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60812fc8539963000707d1e1/featuredImage_1775048649580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34424,22 +34594,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Annette semble jalouse de la relation qu'Ari entretient avec Agnès. Elle est agressive avec la jeune fille, ce qui agace Ari. Quant à Clarisse et Laetitia, elles décident d'habiter ensemble ce qui ravit Anthony et Luc.</desc>
         <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afae68a7fc50000737186d" start="20261103130500 +0000" stop="20261103133100 +0000">
-        <title>Les années fac: Un rendez-vous d'affaire</title>
-        <desc>Clarisse et Laetitia font du chantage aux garçons : elles acceptent de taire la relation de Justine et Anthony à condition qu'ils restent disponibles pour elles !</desc>
-        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afae68a7fc50000737186d" start="20261103133100 +0000" stop="20261103135800 +0000">
-        <title>Les années fac: Un poing vengeur</title>
-        <desc>Laetitia se réfugie chez les garçons et leur confie qu'elle aime toujours Thomas, son ancien petit ami. Sur les conseils d'Antony, elle part le retrouver.</desc>
-        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afae68a7fc50000737186d" start="20261103135800 +0000" stop="20261103142500 +0000">
-        <title>Les années fac: Un tantinet jalouse</title>
-        <desc>Virginie parle de Serge à Justine. En sortant, les filles découvrent devant la porte un bouquet de fleurs et un poème. Annette, Luc et Anthony s'efforcent de trouver une petite amie pour Ari, mais cela s’avère difficile. Annette finit par se sacrifier…</desc>
-        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afae68a7fc50000737186d" start="20261103142500 +0000" stop="20261103170000 +0000">
+    <programme channel="60afae68a7fc50000737186d" start="20261103130500 +0000" stop="20261103170000 +0000">
         <title>Les Années fac</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afae68a7fc50000737186d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34449,17 +34604,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Mademoiselle Gauthier et Monsieurr Rambier se font des déclarations d'amour épistolaires ! Et ils les déclament à voix haute ! Anne-Marie et Gérard sont bouleversés...</desc>
         <icon src="https://images.pluto.tv/series/6141c806f3d10f0016f27bcd/tile_1768115472736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afb203ec391c00070ea1bf" start="20261103131800 +0000" stop="20261103134800 +0000">
-        <title>Les années bleues: Il n'y a pas que les éléphants qui trompent</title>
-        <desc>Virginie doit aller prendre un verre avec un très beau garçon. Un peu hésitante, elle demande à Juliette de l'accompagner en lui assurant que le jeune homme viendra également avec un ami.</desc>
-        <icon src="https://images.pluto.tv/series/6141c836f3d10f0016f286f8/tile_1768213299964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afb203ec391c00070ea1bf" start="20261103134800 +0000" stop="20261103141800 +0000">
-        <title>Les années bleues: Le bout du bout</title>
-        <desc>Sarah est encore rentrée très déprimée et ses amies ont mauvaise conscience. Elles envisagent de lui expliquer qu'il serait peut-être temps de remettre en question la qualité de ses chansons, plutôt que d'incriminer le mauvais goût des producteurs.</desc>
-        <icon src="https://images.pluto.tv/series/6141c836f3d10f0016f286f8/tile_1768213299964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60afb203ec391c00070ea1bf" start="20261103141800 +0000" stop="20261103170000 +0000">
+    <programme channel="60afb203ec391c00070ea1bf" start="20261103131800 +0000" stop="20261103170000 +0000">
         <title>Génération Sitcoms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34479,12 +34624,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Un thriller sombre et comique sur un opérateur de péage solitaire avec un passé qui le rattrape rapidement.</desc>
         <icon src="https://images.pluto.tv/series/622857ee562702001a82e173/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60c3472a51a2050008dad272" start="20261103135340 +0000" stop="20261103153311 +0000">
-        <title>FEARLESS</title>
-        <desc>Quand un laboratoire russe secret ne donne plus aucune nouvelle à son gouvernement, l'armée envoie une unité d'élite pour comprendre la situation. Mais ces soldats, courageux et surentrainés, vont devoir faire face à un ennemi inconnu…</desc>
-        <icon src="https://images.pluto.tv/series/65dc818103625d001390bf9d/tile_1768432322290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60c3472a51a2050008dad272" start="20261103153311 +0000" stop="20261103170000 +0000">
+    <programme channel="60c3472a51a2050008dad272" start="20261103135340 +0000" stop="20261103170000 +0000">
         <title>Ciné Thrillers by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60c3472a51a2050008dad272/featuredImage_1751373092940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34494,12 +34634,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Jean-Nicolas Lougère, employé de banque irréprochable, partage un petit bonheur tranquille avec sa femme Jeanne qui meurt brutalement de la fièvre typhoïde. Arlette, caissière dans le restaurant face à la banque, séduit Lougère.</desc>
         <icon src="https://images.pluto.tv/series/647855a6188649001a846cf4/tile_1768260910937.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e0522443200008c567d7" start="20261103130216 +0000" stop="20261103141016 +0000">
-        <title>Chez Maupassant: L'assassin</title>
-        <desc>Monsieur Caravan, commis principal au Ministère de la Marine, habite Courbevoie, avec sa femme et sa vieille mère. Celle-ci meurt subitement. Le docteur Chenet vient constater le décès.</desc>
-        <icon src="https://images.pluto.tv/series/647855a6188649001a846cf4/tile_1768260910937.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62f3e0522443200008c567d7" start="20261103141016 +0000" stop="20261103170000 +0000">
+    <programme channel="62f3e0522443200008c567d7" start="20261103130216 +0000" stop="20261103170000 +0000">
         <title>Pluto TV French Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e0522443200008c567d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34519,17 +34654,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Dans la salle de bain (6) /  Chez les sado-maso /  Ont un ordinateur (1)</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3ece7b09fd6000783bfb9" start="20261103131113 +0000" stop="20261103133313 +0000">
-        <title>Un Gars Une Fille: Salle de bain (2) /  Convalescence Belle-mère /  Au lit (2)</title>
-        <desc>Salle de bain (2) /  Convalescence Belle-mère /  Au lit (2)</desc>
-        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62f3ece7b09fd6000783bfb9" start="20261103133313 +0000" stop="20261103140843 +0000">
-        <title>Un Gars Une Fille: Alex et Jean sont au supermarché / Chez la belle-mère/Soirée entre copains/File d'attente/Au casino</title>
-        <desc>Alex et Jean sont au supermarché /  Chez la belle-mère (2) /  Soirée entre copains (2) /  File d'attente (1) /  Au casino</desc>
-        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62f3ece7b09fd6000783bfb9" start="20261103140843 +0000" stop="20261103170000 +0000">
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20261103131113 +0000" stop="20261103170000 +0000">
         <title>Un gars, une fille</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34539,17 +34664,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
         <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20261103133000 +0000" stop="20261103140000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20261103140000 +0000" stop="20261103143000 +0000">
-        <title>Un Village Français</title>
-        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
-        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile_1783075863718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20261103143000 +0000" stop="20261103170000 +0000">
+    <programme channel="6304f2e2eb10450007298023" start="20261103133000 +0000" stop="20261103170000 +0000">
         <title>Un Village Français</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f2e2eb10450007298023/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34579,22 +34694,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Alors que le retour d’Estelle pose un sérieux problème à Rudy, Vincent est de plus en plus tiraillé entre amour et devoir. Quant à Luna, elle ne donne pas vraiment à Guillaume la réponse qu’il attendait…</desc>
         <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20261103130150 +0000" stop="20261103132836 +0000">
-        <title>Plus Belle la Vie: Saison 3 Episode 110</title>
-        <desc>Alors que Nathan commence à s’inquiéter de l’évolution de son blog, Samia ne sait plus vraiment sur quel pied danser avec Fabien. Quant à Vincent, il se demande s’il a pris la bonne décision.</desc>
-        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20261103132836 +0000" stop="20261103135529 +0000">
-        <title>Plus Belle la Vie: Saison 3 Episode 111</title>
-        <desc>Alors que Vincent se sent abandonné de tous, Nathan se retrouve menacé par la police et par un voyou. Quant à Samia, elle se met à douter des sentiments qu’on lui porte.</desc>
-        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20261103135529 +0000" stop="20261103142205 +0000">
-        <title>Plus Belle la Vie: Saison 3 Episode 112</title>
-        <desc>Alors que l’enquête de Nicolas progresse, son père semble changer. Samia, elle, est prise dans un tourment sentimental. Enfin, Roland se débat avec son anniversaire et rencontre une belle inconnue…</desc>
-        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20261103142205 +0000" stop="20261103170000 +0000">
+    <programme channel="662a6309307fa30008196b4e" start="20261103130150 +0000" stop="20261103170000 +0000">
         <title>Plus Belle la Vie 2</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a6309307fa30008196b4e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34604,22 +34704,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Alors que Claire tente le tout pour le tout, Inès et Mo s'inquiètent de l'absence d'Enric.</desc>
         <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd0f63a5f20008fb84a3" start="20261103130344 +0000" stop="20261103132815 +0000">
-        <title>Un si grand soleil</title>
-        <desc>Alors que Dylan est prêt à tout pour redorer son blason, Victor voit sa vie soudain basculer.</desc>
-        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6683cd0f63a5f20008fb84a3" start="20261103132815 +0000" stop="20261103135340 +0000">
-        <title>Un si grand soleil</title>
-        <desc>Tandis que la décision d'Elisabeth sème le chaos, Victor est obligé de se résoudre à de douloureux sacrifices.</desc>
-        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6683cd0f63a5f20008fb84a3" start="20261103135340 +0000" stop="20261103141754 +0000">
-        <title>Un si grand soleil</title>
-        <desc>Pendant que Claire est plongée dans la tourmente, Dylan prend tous les risques pour prouver son amour à Inès.</desc>
-        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6683cd0f63a5f20008fb84a3" start="20261103141754 +0000" stop="20261103170000 +0000">
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20261103130344 +0000" stop="20261103170000 +0000">
         <title>Un Si Grand Soleil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/featuredImage_1749650858534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34629,17 +34714,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
         <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66e1978babec540008ce41ac" start="20261103132621 +0000" stop="20261103135621 +0000">
-        <title>Ciné d'horreur by Pluto TV</title>
-        <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-        <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66e1978babec540008ce41ac" start="20261103135621 +0000" stop="20261103142621 +0000">
-        <title>Ciné d'horreur by Pluto TV</title>
-        <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
-        <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66e1978babec540008ce41ac" start="20261103142621 +0000" stop="20261103170000 +0000">
+    <programme channel="66e1978babec540008ce41ac" start="20261103132621 +0000" stop="20261103170000 +0000">
         <title>Ciné Horreur by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66e1978babec540008ce41ac/featuredImage_1751272165910.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34659,17 +34734,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Du sang, des cris et des tueurs complètement fous, c'est sur Ciné Gore &amp; Slasher by Pluto TV!</desc>
         <icon src="https://images.pluto.tv/series/685bc5455463490c3546a401/tile_1790932524220.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68236417b85ccee1c1a025ad" start="20261103131043 +0000" stop="20261103134043 +0000">
-        <title>Ciné Gore &amp; Slasher by Pluto TV</title>
-        <desc>Du sang, des cris et des tueurs complètement fous, c'est sur Ciné Gore &amp; Slasher by Pluto TV!</desc>
-        <icon src="https://images.pluto.tv/series/685bc5455463490c3546a401/tile_1790932524220.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68236417b85ccee1c1a025ad" start="20261103134043 +0000" stop="20261103141043 +0000">
-        <title>Ciné Gore &amp; Slasher by Pluto TV</title>
-        <desc>Du sang, des cris et des tueurs complètement fous, c'est sur Ciné Gore &amp; Slasher by Pluto TV!</desc>
-        <icon src="https://images.pluto.tv/series/685bc5455463490c3546a401/tile_1790932524220.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68236417b85ccee1c1a025ad" start="20261103141043 +0000" stop="20261103170000 +0000">
+    <programme channel="68236417b85ccee1c1a025ad" start="20261103131043 +0000" stop="20261103170000 +0000">
         <title>Ciné Gore &amp; Slasher by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68236417b85ccee1c1a025ad/featuredImage_1751376885227.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34679,17 +34744,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
         <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6823648580b2665220d9e69a" start="20261103130031 +0000" stop="20261103133031 +0000">
-        <title>Ciné 666 by Pluto TV</title>
-        <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-        <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6823648580b2665220d9e69a" start="20261103133031 +0000" stop="20261103140031 +0000">
-        <title>Ciné 666 by Pluto TV</title>
-        <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
-        <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6823648580b2665220d9e69a" start="20261103140031 +0000" stop="20261103170000 +0000">
+    <programme channel="6823648580b2665220d9e69a" start="20261103130031 +0000" stop="20261103170000 +0000">
         <title>Ciné 666 by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6823648580b2665220d9e69a/featuredImage-1757404098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34699,12 +34754,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Nicolas tente d'initier Paul-Étienne, le neveu d'Oliver, à la navigation. Au loin, un caïd envoie deux hommes récupérer une moto volée.</desc>
         <icon src="https://images.pluto.tv/series/6a2baa391718969e36819816/tile_1781246521989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b33ae8a64bd1811e923f2" start="20261103132853 +0000" stop="20261103142650 +0000">
-        <title>Les Vacances De L'amour</title>
-        <desc>Deux inconnus s'introduisent dans le casino et kidnappent la fille du directeur. Laly et Bénédicte sont menacées de payer la rançon.</desc>
-        <icon src="https://images.pluto.tv/series/6a2baa391718969e36819816/tile_1781246521989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="691b33ae8a64bd1811e923f2" start="20261103142650 +0000" stop="20261103170000 +0000">
+    <programme channel="691b33ae8a64bd1811e923f2" start="20261103132853 +0000" stop="20261103170000 +0000">
         <title>Les vacances de l'amour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/featuredImage_1771260226631.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34714,17 +34764,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Depuis que Sacha a été élue fille la plus top du bahut, sa popularité attise la jalousie d’Alix. Bien décidée à la détrôner, elle multiplie coups bas et faux-semblants, sans mesurer le prix de cette rivalité.</desc>
         <icon src="https://images.pluto.tv/series/6a32826adee9a631d09f7662/tile_1781695083650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b3505e70325a3b15b12f0" start="20261103131918 +0000" stop="20261103135123 +0000">
-        <title>Nos Annees Pension</title>
-        <desc>Des photos volées de l’internat finissent dans la presse people, faisant de Julien et Sacha un faux couple. Tandis que Moundi traque le paparazzi, les deux intéressés choisissent d’entretenir la rumeur pour mieux la contrôler.</desc>
-        <icon src="https://images.pluto.tv/series/6a32826adee9a631d09f7662/tile_1781695083650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="691b3505e70325a3b15b12f0" start="20261103135123 +0000" stop="20261103142256 +0000">
-        <title>Nos Annees Pension</title>
-        <desc>Piquée par le faux couple Sacha-Julien, Zoé craque et embrasse Julien, provoquant un énorme malentendu avec Alix. Pendant ce temps, Moundi, toujours amoureux et malheureux, dramatise au point d’inquiéter ses parents.</desc>
-        <icon src="https://images.pluto.tv/series/6a32826adee9a631d09f7662/tile_1781695083650.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="691b3505e70325a3b15b12f0" start="20261103142256 +0000" stop="20261103170000 +0000">
+    <programme channel="691b3505e70325a3b15b12f0" start="20261103131918 +0000" stop="20261103170000 +0000">
         <title>Nos années pensions</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b3505e70325a3b15b12f0/featuredImage_1771261020366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34734,12 +34774,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Lulu annonce son emménagement avec Doid quand Adil révèle son projet de mariage avec Mélanie. Laura ravive un vieux rêve, Nine propose un nouveau métier à Maxime, et Kaleen hésite à quitter la campagne d’Adil.</desc>
         <icon src="https://images.pluto.tv/series/6a1576287c10648245ca34ae/tile_1779791403708.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b351d427d68a118fdda13" start="20261103133000 +0000" stop="20261103140100 +0000">
-        <title>Cut</title>
-        <desc>Adil soutient Mélanie dans une épreuve qu’elle tait. Ruben cherche Angèle, disparue après avoir encore découché. Hélène, débordée entre CSK et sa campagne, garde Jules comme Charles à distance.</desc>
-        <icon src="https://images.pluto.tv/series/6a1576287c10648245ca34ae/tile_1779791403708.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="691b351d427d68a118fdda13" start="20261103140100 +0000" stop="20261103170000 +0000">
+    <programme channel="691b351d427d68a118fdda13" start="20261103133000 +0000" stop="20261103170000 +0000">
         <title>Cut</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b351d427d68a118fdda13/featuredImage_1771320263369.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -34749,12 +34784,7 @@ discrétion les reptiles les plus rares et les plus dangereux.</desc>
         <desc>Nina soigne le fils d'une ancienne amie et découvre les sacrifices liés à la vie d'infirmière.</desc>
         <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec6d82329c10c5166f436" start="20261103133940 +0000" stop="20261103143817 +0000">
-        <title>NINA</title>
-        <desc>Le Dr Proust est en conflit avec Nina sur l'acharnement thérapeutique d'un patient âgé.</desc>
-        <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="692ec6d82329c10c5166f436" start="20261103143817 +0000" stop="20261103170000 +0000">
+    <programme channel="692ec6d82329c10c5166f436" start="20261103133940 +0000" stop="20261103170000 +0000">
         <title>Nina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/featuredImage_1771598181775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

@@ -15578,30 +15578,15 @@ Bean taxista + Musculoso Bean</desc>
         <desc>Stage eight of the Rally Sweden 2026.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261102213900 +0000" stop="20261102214200 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="696e02423b9ce349c90edef9" start="20261102213900 +0000" stop="20261102233900 +0000">
+        <title>Rally TV</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/69a724bbb2d615a4c02b5725/tile_1772561596677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261102214200 +0000" stop="20261102223100 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Stage nine of the Rally Sweden 2026.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261102223100 +0000" stop="20261102233200 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261102233200 +0000" stop="20261102234200 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20261102234200 +0000" stop="20261103005000 +0000">
-        <title>FIA World Rally Championship</title>
-        <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
-        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1786983238309.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="696e02423b9ce349c90edef9" start="20261102233900 +0000" stop="20261103005000 +0000">
+        <title>Rally TV</title>
+        <desc>Rally.TV es el nuevo hogar del rally, donde puedes mirar todas las carreras del WEC &amp; ERC, miles de destacados, y mucho más!</desc>
+        <icon src="https://images.pluto.tv/series/69a724bbb2d615a4c02b5725/tile_1772561596677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="696e02423b9ce349c90edef9" start="20261103005000 +0000" stop="20261103012100 +0000">
         <title>FIA World Rally Championship</title>
@@ -23015,6 +23000,11 @@ Estrella Invitada: Amber Heard.</desc>
         <title>Viaje a Italia</title>
         <desc>Steve Coogan y Rob Brydon reciben el encargo de un nuevo viaje gastronómico, esta vez por Italia. Estos dos improbables amigos conducen por todo el país mientras vuelven a discutir sobre la vida, el amor y el cine.</desc>
         <icon src="https://images.pluto.tv/series/618263bfb5d0e9001a8ca98d/tile_1768603321873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8099c49f600076579b2" start="20261103090232 +0000" stop="20261103103507 +0000">
+        <title>Incidencias</title>
+        <desc>Los pasajeros del tren comienzan a enfrentarse entre sí cuando su viaje se detiene en medio de la nada durante un clima peligroso.</desc>
+        <icon src="https://images.pluto.tv/series/66462696a08618001349155b/tile_1768599733898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8a87cd38d000745d7cf" start="20261103033449 +0000" stop="20261103051957 +0000">
         <title>El intruso</title>
@@ -31286,12 +31276,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>La mañana del 23 de noviembre de 1987, prisioneros de nacionalidad cubana en la Prisión Federal de Atlanta comenzaron a provocar incendios al detonar armas caseras, y robaron esposas y radios de los empleados de la prisión.</desc>
         <icon src="https://images.pluto.tv/series/5f4fc0e31629e7001abe999c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1acbed25948a0007ffbe65" start="20261103131300 +0000" stop="20261103141100 +0000">
-        <title>Los archivos del FBI: No hay lugar para esconderse</title>
-        <desc>En la primavera de 1997, un asesino cuyas presas eran personas mayores, aterrorizó a los habitantes de River Parish en el sur de Luisiana.</desc>
-        <icon src="https://images.pluto.tv/series/5f4fc0e31629e7001abe999c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1acbed25948a0007ffbe65" start="20261103141100 +0000" stop="20261103170000 +0000">
+    <programme channel="5f1acbed25948a0007ffbe65" start="20261103131300 +0000" stop="20261103170000 +0000">
         <title>Los archivos del FBI</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31301,17 +31286,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Archivos Forenses es el programa de crimen verdadero con más tiempo en el aire en la historia de la televisión. Evidencia y entrevistas con expertos ayudan a resolver casos verdaderos, brotes de enfermedad y accidentes alrededor del mundo.</desc>
         <icon src="https://images.pluto.tv/series/5fbbebca2aac7a001a5c90ae/tile_1785992763175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f984f4a09e92d0007d74647" start="20261103132200 +0000" stop="20261103134700 +0000">
-        <title>Archivos Forenses</title>
-        <desc>Archivos Forenses es el programa de crimen verdadero con más tiempo en el aire en la historia de la televisión. Evidencia y entrevistas con expertos ayudan a resolver casos verdaderos, brotes de enfermedad y accidentes alrededor del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/5fbbebca2aac7a001a5c90ae/tile_1785992763175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f984f4a09e92d0007d74647" start="20261103134700 +0000" stop="20261103141200 +0000">
-        <title>Archivos Forenses</title>
-        <desc>Archivos Forenses es el programa de crimen verdadero con más tiempo en el aire en la historia de la televisión. Evidencia y entrevistas con expertos ayudan a resolver casos verdaderos, brotes de enfermedad y accidentes alrededor del mundo.</desc>
-        <icon src="https://images.pluto.tv/series/5fbbebca2aac7a001a5c90ae/tile_1785992763175.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f984f4a09e92d0007d74647" start="20261103141200 +0000" stop="20261103170000 +0000">
+    <programme channel="5f984f4a09e92d0007d74647" start="20261103132200 +0000" stop="20261103170000 +0000">
         <title>Archivos Forenses</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/featuredImage_1763542907955.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31321,22 +31296,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Las cosas se calientan cuando se le pide a un empleado que se desnude y pruebe una máquina de bronceado. Un cliente intenta vender su brazalete de oro, pero Les le dice que es falso.</desc>
         <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60218baa464ef900073168c1" start="20261103130400 +0000" stop="20261103132900 +0000">
-        <title>Empeños a lo bestia</title>
-        <desc>Les hace una compra impulsiva fuera del personaje que convierte la casa de empeño en una sala de juegos.</desc>
-        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60218baa464ef900073168c1" start="20261103132900 +0000" stop="20261103135400 +0000">
-        <title>Empeños a lo bestia</title>
-        <desc>Un cliente lleva a Rich al límite con un desfile interminable de artículos sin valor, pero cuando insiste empeñar un auto deportivo de edición limitada, los ojos de Rich se iluminan.</desc>
-        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60218baa464ef900073168c1" start="20261103135400 +0000" stop="20261103141900 +0000">
-        <title>Empeños a lo bestia</title>
-        <desc>Les se ve tentado por un auto antiguo "Hot Rod" a un precio elevado.</desc>
-        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60218baa464ef900073168c1" start="20261103141900 +0000" stop="20261103170000 +0000">
+    <programme channel="60218baa464ef900073168c1" start="20261103130400 +0000" stop="20261103170000 +0000">
         <title>Empeños a lo bestia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31356,12 +31316,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Matt LeBlanc hace frente al supercoche Mercedes-AMG GT R, con aliento de fuego. En otro lugar, Chris Harris y Rory Reid viajan atraviesan Cuba en dos coches deportivos de segunda mano.</desc>
         <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d356a534f63f000850cdd7" start="20261103130741 +0000" stop="20261103141541 +0000">
-        <title>Top Gear: Temporada 24, Episodio 7</title>
-        <desc>Matt LeBlanc conduce un vehículo de rescate de ocho ruedas de Rusia, Rory Reid transforma el coche más feo del mundo en un yate de lujo y Chris Harris hace una reseña del nuevo Porsche Cayman. Jamiroquai, el veterano Jay Kay, es el invitado al estudio.</desc>
-        <icon src="https://images.pluto.tv/series/63048ee5946347001bf27bc1/tile_1774006560964.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d356a534f63f000850cdd7" start="20261103141541 +0000" stop="20261103170000 +0000">
+    <programme channel="60d356a534f63f000850cdd7" start="20261103130741 +0000" stop="20261103170000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/featuredImage_1760687705283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31371,12 +31326,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El Doctor lleva a Donna a su primer mundo extrarrestre, donde descubre que la raza humana ha desarrollado muchos secretos.</desc>
         <icon src="https://images.pluto.tv/series/672cd6e049c40600081d5ffc/tile_1792573969742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d3574e97f10800078455de" start="20261103132100 +0000" stop="20261103141200 +0000">
-        <title>Doctor Who: La estratagema Sontaran</title>
-        <desc>Martha Jones convoca al Doctor de regreso a UNIT y la Tierra moderna, pero un viejo enemigo acecha.</desc>
-        <icon src="https://images.pluto.tv/series/672cd6e049c40600081d5ffc/tile_1792573969742.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="60d3574e97f10800078455de" start="20261103141200 +0000" stop="20261103170000 +0000">
+    <programme channel="60d3574e97f10800078455de" start="20261103132100 +0000" stop="20261103170000 +0000">
         <title>Doctor Who</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d3574e97f10800078455de/featuredImage_1792573918778.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31386,22 +31336,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El nuevo psiquiatra jefe de una vieja institución mental está atormentado por imágenes del cruel pasado del hospital.</desc>
         <icon src="https://images.pluto.tv/series/6500433dd65d07001406d310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612ce5214bb5790007ad3016" start="20261103130618 +0000" stop="20261103133018 +0000">
-        <title>Historias de fantasmas: El último vuelo</title>
-        <desc>Un año después del accidente de avión que cobró a su esposo e hijo, una mujer culpable toma un vuelo nocturno. En medio del vuelo azotado por la tormenta, la mujer es perseguida por fantasmas de su pasado.</desc>
-        <icon src="https://images.pluto.tv/series/6500433dd65d07001406d310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="612ce5214bb5790007ad3016" start="20261103133018 +0000" stop="20261103135418 +0000">
-        <title>Historias de fantasmas: La hermanastra</title>
-        <desc>Cuando la madre de una niña se vuelve a casar, se muda a la casa de su padrastro, solo para encontrarse obsesionada por el fantasma de su hermanastro celoso.</desc>
-        <icon src="https://images.pluto.tv/series/6500433dd65d07001406d310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="612ce5214bb5790007ad3016" start="20261103135418 +0000" stop="20261103141818 +0000">
-        <title>Historias de fantasmas: Siempre serás mía</title>
-        <desc>Una joven es acosada por el fantasma de un pretendiente obsesivo. Después de que la encuentran asesinada, el policía que no la protegió es perseguido por sus gritos de ayuda más allá de la tumba.</desc>
-        <icon src="https://images.pluto.tv/series/6500433dd65d07001406d310/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="612ce5214bb5790007ad3016" start="20261103141818 +0000" stop="20261103170000 +0000">
+    <programme channel="612ce5214bb5790007ad3016" start="20261103130618 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Paranormal</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31411,17 +31346,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El pequeño Rodolphe desaparece; una nueva jefa misteriosa llega a la unidad.</desc>
         <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1785922921413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61bb2814ac085a00074309a6" start="20261103130159 +0000" stop="20261103135809 +0000">
-        <title>Unidad de investigación</title>
-        <desc>Una joven es asesinada durante un juego de rol en un fuerte abandonado.</desc>
-        <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1785922921413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="61bb2814ac085a00074309a6" start="20261103135809 +0000" stop="20261103145457 +0000">
-        <title>Unidad de investigación</title>
-        <desc>Una estudiante aparece muerta en la playa; llevaba una doble vida.</desc>
-        <icon src="https://images.pluto.tv/series/61e7c4b00a7fe8001a1319fd/tile_1785922921413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="61bb2814ac085a00074309a6" start="20261103145457 +0000" stop="20261103170000 +0000">
+    <programme channel="61bb2814ac085a00074309a6" start="20261103130159 +0000" stop="20261103170000 +0000">
         <title>Unidad de investigación</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61bb2814ac085a00074309a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31431,12 +31356,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Seis estudiantes universitarios encargados de limpiar una casa abandonada desatan accidentalmente a un antiguo demonio atrapado en el sótano.</desc>
         <icon src="https://images.pluto.tv/series/6abc0b40da71d9a75f2e2b74/tile_1790708693590.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6267d4d1fb694f0007a6af0e" start="20261103130836 +0000" stop="20261103145526 +0000">
-        <title>Retornados</title>
-        <desc>En un mundo post-zombi, donde los infectados viven vidas normales, su medicamento retroviral se está agotando.</desc>
-        <icon src="https://images.pluto.tv/series/67ef892089ba442cd9277b02/tile_1778802128253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6267d4d1fb694f0007a6af0e" start="20261103145526 +0000" stop="20261103170000 +0000">
+    <programme channel="6267d4d1fb694f0007a6af0e" start="20261103130836 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Horror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31446,17 +31366,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>La reputación de Cartman está en juego porque le da miedo enfrentarse a Wendy, que está furiosa por sus chistes sobre el cáncer de mama.</desc>
         <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1788555601201.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="628751bb7154a40007168843" start="20261103132458 +0000" stop="20261103134958 +0000">
-        <title>South Park: Pandemia</title>
-        <desc>South Park se vuelve Cloverfield cuando unas criaturas enormes y misteriosas empiezan a causar estragos en todo el mundo, todo grabado por la cámara temblorosa de Randy.</desc>
-        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1788555601201.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="628751bb7154a40007168843" start="20261103134958 +0000" stop="20261103141458 +0000">
-        <title>South Park: Pandemia 2: el sobresalto</title>
-        <desc>Unos conejillos de indias gigantes están atacando las ciudades de todo el mundo. Los chicos tienen la clave para salvar a la humanidad, pero están atrapados en los Andes.</desc>
-        <icon src="https://images.pluto.tv/series/60f7cd29cd9d6f0013a55912/tile_1788555601201.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="628751bb7154a40007168843" start="20261103141458 +0000" stop="20261103170000 +0000">
+    <programme channel="628751bb7154a40007168843" start="20261103132458 +0000" stop="20261103170000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/628751bb7154a40007168843/featuredImage_1755153575393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31466,12 +31376,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Mientras va en tren, una mujer se acerca a la señora Marple y le cuenta que está segura de que habrá dos asesinatos en su pueblo. Al bajar del ferrocarril, alguien empuja a la mujer por las escaleras.</desc>
         <icon src="https://images.pluto.tv/series/64abf9c8aab4dc001331ba33/tile_1786012561868.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f530440dc90007f514d3" start="20261103131200 +0000" stop="20261103150900 +0000">
-        <title>Agatha Christie: Poirot ES: Asesinato en la calle Hickory</title>
-        <desc>La señorita Lemon persuade a Poirot para que investigue una serie de pequeños robos en una residencia universitaria. Pero este ataque de cleptomanía acaba derivando en un desconcertante homicidio.</desc>
-        <icon src="https://images.pluto.tv/series/648192f0662d03001b575fa0/tile_1786012561886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6304f530440dc90007f514d3" start="20261103150900 +0000" stop="20261103170000 +0000">
+    <programme channel="6304f530440dc90007f514d3" start="20261103131200 +0000" stop="20261103170000 +0000">
         <title>Poirot &amp; Miss Marple</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f530440dc90007f514d3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31481,12 +31386,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Dos días antes de que la explosiva Sandy y el tranquilo Duane se casen, los disparos los separan. Primero, la policía sospecha de un robo fallido. Pronto se revela un examante virtual y una mujer oculta con secretos. ¿Quién mató a la ardiente novia?</desc>
         <icon src="https://images.pluto.tv/series/690db510d2a007fabaf203fa/tile_1790722804720.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64a3f200f238ce0008d47247" start="20261103133013 +0000" stop="20261103143113 +0000">
-        <title>El Caso de mi Vida: La Red de Pedofilia de Angers</title>
-        <desc>En 2002, estalla en Angers el mayor caso de pedofilia en Francia.</desc>
-        <icon src="https://images.pluto.tv/series/646391f95348f4001a516619/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64a3f200f238ce0008d47247" start="20261103143113 +0000" stop="20261103170000 +0000">
+    <programme channel="64a3f200f238ce0008d47247" start="20261103133013 +0000" stop="20261103170000 +0000">
         <title>Pluto TV True Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31496,12 +31396,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Rolf Harris fue uno de los artistas más queridos del Gran Bretaña. Todo cambió cuando fue acusado de una serie de abusos deshonestos perpetrados entre 1968 y 1986.</desc>
         <icon src="https://images.pluto.tv/series/69d3a85b615bba1ee08b70c4/tile_1775478876799.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64ddcbb14c5ed80008fad416" start="20261103131000 +0000" stop="20261103140100 +0000">
-        <title>Esposas asesinas</title>
-        <desc>Jameelah se enamora de un traficante de drogas, James. La cárcel no consigue separarlos y acaban casándose. Cuando las tensiones estallan, Jameelah lo apuñalará durante una pelea.</desc>
-        <icon src="https://images.pluto.tv/series/66d81af8a0ed47001326a438/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="64ddcbb14c5ed80008fad416" start="20261103140100 +0000" stop="20261103170000 +0000">
+    <programme channel="64ddcbb14c5ed80008fad416" start="20261103131000 +0000" stop="20261103170000 +0000">
         <title>Crimen &amp; Historia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31511,12 +31406,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>En 1963 en Brasil, tres niños son testigos de un OVNI en su patio trasero. Un cíclope alienígena desciende y el Sr. Alberto investiga el fenómeno.</desc>
         <icon src="https://images.pluto.tv/series/653f6af63e6938001a752485/tile_1769648402516.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a35ce346f420008d5c36e" start="20261103135420 +0000" stop="20261103152315 +0000">
-        <title>CIA: El Enigma de la Puerta de Acceso</title>
-        <desc>En 1983, el Teniente Coronel Wayne McDonnell presentó un informe inusualmente detallado y completo a la Inteligencia del Ejército de EE.UU. titulado 'Análisis y Evaluación del Proceso de la Puerta de Acceso'.</desc>
-        <icon src="https://images.pluto.tv/series/6a1551e4114ca7fcbe216f44/tile_1779782117481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="654a35ce346f420008d5c36e" start="20261103152315 +0000" stop="20261103170000 +0000">
+    <programme channel="654a35ce346f420008d5c36e" start="20261103135420 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Invasión Alien</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/featuredImage_1781530240161.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31526,17 +31416,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
         <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65786888b228b7000843ad9a" start="20261103130040 +0000" stop="20261103133040 +0000">
-        <title>Pluto TV Zombies</title>
-        <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
-        <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65786888b228b7000843ad9a" start="20261103133040 +0000" stop="20261103140040 +0000">
-        <title>Pluto TV Zombies</title>
-        <desc>¡El mejor cine de zombis está en Pluto TV Zombies! ¡Todas las noches a las 23.00 los muertos vivientes tienen su propio canal, en Pluto TV!</desc>
-        <icon src="https://images.pluto.tv/series/67c8585962a62059dd6f4423/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65786888b228b7000843ad9a" start="20261103140040 +0000" stop="20261103170000 +0000">
+    <programme channel="65786888b228b7000843ad9a" start="20261103130040 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Zombies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65786888b228b7000843ad9a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31546,12 +31426,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Phoebe se resiste a casarse con Cole y lanza un hechizo que trae a una joven Phoebe y a una cínica Phoebe a la mansión para ayudarla a tomar una decisión. Mientras tanto, Cole se horroriza al descubrir que la Fuente se está apoderando de todo su ser.</desc>
         <icon src="https://images.pluto.tv/series/65a65d78d40ef30013383f63/tile_1785498481819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="657868a7a620e30008fdbfeb" start="20261103132956 +0000" stop="20261103141759 +0000">
-        <title>Embrujadas</title>
-        <desc>Phoebe se prepara para el día de su boda y desconoce que la Fuente se ha apoderado de Cole. La Vidente le dice a Cole que si consigue casarse con Phoebe de una 'forma oscura', se asegurará de que su futuro hijo sea el ser más malvado de la historia.</desc>
-        <icon src="https://images.pluto.tv/series/65a65d78d40ef30013383f63/tile_1785498481819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="657868a7a620e30008fdbfeb" start="20261103141759 +0000" stop="20261103170000 +0000">
+    <programme channel="657868a7a620e30008fdbfeb" start="20261103132956 +0000" stop="20261103170000 +0000">
         <title>Embrujadas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/featuredImage_1770028317031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31561,12 +31436,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Allison y Scanlon buscan a un asesino de chicas jóvenes. Las pistas apuntan a un hombre corpulento que las seduce y luego las mata. Las visiones de Allison serán clave para identificar al culpable.</desc>
         <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6578808014fbe400086e21bc" start="20261103132245 +0000" stop="20261103141011 +0000">
-        <title>Medium</title>
-        <desc>Dos prostitutas han sido asesinadas de forma brutal. La policía cree que están relacionadas por una alianza de plata. El agente del FBI Edward Cooper llega a Phoenix, pero Allison sospecha de él por detalles que ve en sus sueños.</desc>
-        <icon src="https://images.pluto.tv/series/66573beb3b5b100014735f87/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6578808014fbe400086e21bc" start="20261103141011 +0000" stop="20261103170000 +0000">
+    <programme channel="6578808014fbe400086e21bc" start="20261103132245 +0000" stop="20261103170000 +0000">
         <title>Medium</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6578808014fbe400086e21bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31576,12 +31446,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Una modelo muere durante una protesta feminista contra el uso de corsés. Murdoch tiene que ahondar en el mundo femenino para descubrir quién se beneficiaría de convertir a una joven en una víctima de la moda.</desc>
         <icon src="https://images.pluto.tv/series/66eabb22d99fc7001377ba9f/tile_1785920265352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6682bd9b8768aa0008f25be5" start="20261103131259 +0000" stop="20261103140035 +0000">
-        <title>Los Misterios de Murdoch: Las incurables</title>
-        <desc>Murdoch se dirige a un hospital psiquiátrico para investigar el asesinato de una enfermera por uno de los internos. Un interno amenaza la vida del doctor Ogden.</desc>
-        <icon src="https://images.pluto.tv/series/66eabb22d99fc7001377ba9f/tile_1785920265352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6682bd9b8768aa0008f25be5" start="20261103140035 +0000" stop="20261103170000 +0000">
+    <programme channel="6682bd9b8768aa0008f25be5" start="20261103131259 +0000" stop="20261103170000 +0000">
         <title>Los misterios de Murdoch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/featuredImage_1764691773450.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31591,17 +31456,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
         <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b0dfa1d512590008bfa7fd" start="20261103130011 +0000" stop="20261103133011 +0000">
-        <title>Pluto TV Gore &amp; Slasher</title>
-        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66b0dfa1d512590008bfa7fd" start="20261103133011 +0000" stop="20261103140011 +0000">
-        <title>Pluto TV Gore &amp; Slasher</title>
-        <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-        <icon src="https://images.pluto.tv/series/671fb88adaad7f00086e36fd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66b0dfa1d512590008bfa7fd" start="20261103140011 +0000" stop="20261103170000 +0000">
+    <programme channel="66b0dfa1d512590008bfa7fd" start="20261103130011 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Gore &amp; Slasher</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31621,12 +31476,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Alice Nevers investiga junto al comandante Marquand la muerte de Camille Courson, una mujer de treinta y ocho años. Se desnucó contra el bordillo de una acera. Acababa de secuestrar a su propio hijo.</desc>
         <icon src="https://images.pluto.tv/series/67408a2871cc44001393acbb/tile_1774007280938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71f8ee5de930008016f83" start="20261103130635 +0000" stop="20261103140350 +0000">
-        <title>Alice Nevers</title>
-        <desc>Nathalie Chazela, una joven autista de 22 años, es descubierta muerta en medio de la noche. Alice y Marquand se enteran de que la víctima vivía en una institución de la que, en teoría, es imposible escapar.</desc>
-        <icon src="https://images.pluto.tv/series/67408a2871cc44001393acbb/tile_1774007280938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66d71f8ee5de930008016f83" start="20261103140350 +0000" stop="20261103170000 +0000">
+    <programme channel="66d71f8ee5de930008016f83" start="20261103130635 +0000" stop="20261103170000 +0000">
         <title>Alice Nevers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71f8ee5de930008016f83/featuredImage_1730816120443.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31636,17 +31486,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>¿No es escalofriante que este canal se encienda solo cada noche a las 23:00 para emitir las mejores series de terror?</desc>
         <icon src="https://images.pluto.tv/series/68628bf481c345899e3ab0dc/tile_1751288841661.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68345650e8377f86acdeda83" start="20261103130055 +0000" stop="20261103133055 +0000">
-        <title>Pluto TV Series de Terror</title>
-        <desc>¿No es escalofriante que este canal se encienda solo cada noche a las 23:00 para emitir las mejores series de terror?</desc>
-        <icon src="https://images.pluto.tv/series/68628bf481c345899e3ab0dc/tile_1751288841661.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68345650e8377f86acdeda83" start="20261103133055 +0000" stop="20261103140055 +0000">
-        <title>Pluto TV Series de Terror</title>
-        <desc>¿No es escalofriante que este canal se encienda solo cada noche a las 23:00 para emitir las mejores series de terror?</desc>
-        <icon src="https://images.pluto.tv/series/68628bf481c345899e3ab0dc/tile_1751288841661.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68345650e8377f86acdeda83" start="20261103140055 +0000" stop="20261103170000 +0000">
+    <programme channel="68345650e8377f86acdeda83" start="20261103130055 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Series de Terror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68345650e8377f86acdeda83/featuredImage_1751021711623.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31666,17 +31506,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Antes de que Vegeta pueda vaporizar al Boo bueno, Mr. Satan se interpone y le suplica que le perdone la vida. Finalmente, Goku y sus compañeros regresan a la Tierra, donde familiares y amigos les esperan con los brazos abiertos.</desc>
         <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e8fd7c3ede4398bc69af93" start="20261103131247 +0000" stop="20261103133857 +0000">
-        <title>Dragon Ball Z</title>
-        <desc>En la Capsule Corp todo está listo para celebrar una fiesta en honor de Goku... todo menos él. Y es que Goku está demasiado ocupado tratando de proteger unos huevos de terodáctilo como para pensar en lo que le espera en casa.</desc>
-        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e8fd7c3ede4398bc69af93" start="20261103133857 +0000" stop="20261103140507 +0000">
-        <title>Dragon Ball Z</title>
-        <desc>Han transcurrido diez años desde la derrota de Boo y desde entonces, Trunks y Goten se han convertido en adultos, Vegeta y Bulma han tenido otra hija, Gohan y Videl se han casado y Goku... ¡se ha convertido en abuelo!</desc>
-        <icon src="https://images.pluto.tv/series/68e4e33a393a03f3e364a921/tile_1776162241540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68e8fd7c3ede4398bc69af93" start="20261103140507 +0000" stop="20261103170000 +0000">
+    <programme channel="68e8fd7c3ede4398bc69af93" start="20261103131247 +0000" stop="20261103170000 +0000">
         <title>Dragon Ball Z</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/featuredImage_1775550158845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31696,12 +31526,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>David, el hermano de Fernando, acompaña a Bruno a una partida de cartas. A pesar de que no se conocen de nada, David y Tony coinciden en la timba. Intiman y acaban tomando unas copas en el Chicago.</desc>
         <icon src="https://images.pluto.tv/series/5f562db9f7db51001a3c5acc/tile_1774022761087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a6a031b10c8f12ffc3adbb5" start="20261103132957 +0000" stop="20261103144557 +0000">
-        <title>Ana y los 7: Crisis</title>
-        <desc>Fernando sufre una crisis de edad. Se compara con su hermano David y comienza a obsesionarse por la dieta, la forma y el aspecto físico. Ana y David acuden juntos a cenar a casa de Tony y Sharon.</desc>
-        <icon src="https://images.pluto.tv/series/5f562db9f7db51001a3c5acc/tile_1774022761087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a6a031b10c8f12ffc3adbb5" start="20261103144557 +0000" stop="20261103170000 +0000">
+    <programme channel="6a6a031b10c8f12ffc3adbb5" start="20261103132957 +0000" stop="20261103170000 +0000">
         <title>Series made in Spain de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a6a031b10c8f12ffc3adbb5/featuredImage_1790240978580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31711,17 +31536,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
         <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261103133000 +0000" stop="20261103140000 +0000">
-        <title>Rebelde</title>
-        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
-        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261103140000 +0000" stop="20261103143000 +0000">
-        <title>Rebelde</title>
-        <desc>En el exclusivo Elite Way School, adolescentes de clases sociales opuestas llegan buscando prestigio y contactos... pero encuentran algo más fuerte: su pasión compartida por la música, que los unirá por encima de todos los prejuicios.</desc>
-        <icon src="https://images.pluto.tv/series/6ac8b13faae217e856d3fd29/tile_1791537792791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261103143000 +0000" stop="20261103170000 +0000">
+    <programme channel="6a9a8fbd8cc64f2b2b40c83c" start="20261103133000 +0000" stop="20261103170000 +0000">
         <title>Rebelde</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a9a8fbd8cc64f2b2b40c83c/featuredImage_1789113326784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31731,17 +31546,7 @@ Un rayo de sol + Cumpleaños Oso</desc>
         <desc>Pablo visita el Rebo Bar de Eve, "La Tortillera", en Sant Boi. Prueban tortillas variadas, croquetas, bravas, el mejor bocadillo de Cataluña y tarta de queso.</desc>
         <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261103131501 +0000" stop="20261103134802 +0000">
-        <title>Cenando con Pablo</title>
-        <desc>El Mesón de los 20 Platos en Zaragoza ofrece un menú de 28 platos por 29€ que nadie ha terminado jamás. Pablo lo prueba y nos da su veredicto.</desc>
-        <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261103134802 +0000" stop="20261103145422 +0000">
-        <title>Cenando con Pablo</title>
-        <desc>Pablo visita a Walter y Ana, protagonistas de un polémico episodio de Pesadilla en la Cocina, en su nuevo negocio en Berga. Prueban sus platos y revelan secretos del programa.</desc>
-        <icon src="https://images.pluto.tv/series/6aaa80884996e40ab21a4ea5/tile_1789558921398.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261103145422 +0000" stop="20261103170000 +0000">
+    <programme channel="6a9fc2af17c0d8c7a37697d0" start="20261103131501 +0000" stop="20261103170000 +0000">
         <title>Cenando con Pablo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a9fc2af17c0d8c7a37697d0/featuredImage_1789400793549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32052,12 +31857,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
         <icon src="https://images.pluto.tv/series/624d4a09ffa0a9001399688b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abce155a03d0007718834" start="20261103131240 +0000" stop="20261103140040 +0000">
-        <title>La hora de José Mota: Quien bien te quiere te hará llorar</title>
-        <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-        <icon src="https://images.pluto.tv/series/624d4a09ffa0a9001399688b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1abce155a03d0007718834" start="20261103140040 +0000" stop="20261103170000 +0000">
+    <programme channel="5f1abce155a03d0007718834" start="20261103131240 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Comedia made in Spain</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32067,17 +31867,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Hits on the playlist include "Head on Collision," "The Sensitive Kind" and "Behind Closed Doors."</desc>
         <icon src="https://images.pluto.tv/series/68dba397fa0f5ccff57365b8/tile_1759224728925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261103131600 +0000" stop="20261103134800 +0000">
-        <title>FailFactory</title>
-        <desc>Everybody hurts in this episode of failure.</desc>
-        <icon src="https://images.pluto.tv/series/68dba395fa0f5ccff5736278/tile_1759226376387.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261103134800 +0000" stop="20261103142000 +0000">
-        <title>FailFactory</title>
-        <desc>Sea creature, reptile, amphibian and insect fails.</desc>
-        <icon src="https://images.pluto.tv/series/68dba395fa0f5ccff5736278/tile_1759226376387.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261103142000 +0000" stop="20261103170000 +0000">
+    <programme channel="5f1abf5fafb5ee0007d4d0ca" start="20261103131600 +0000" stop="20261103170000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32097,12 +31887,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Cuatro profesionales atracan un banco en México. Consiguen un botín de 11 millones de dólares, y se van a Buenos Aires para cambiar los dólares por pesos.</desc>
         <icon src="https://images.pluto.tv/series/62876af8e26cc40014b2b0a0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac2591dd8880007bb7d6d" start="20261103133922 +0000" stop="20261103155622 +0000">
-        <title>Los tigres del tren</title>
-        <desc>Un ferroviario en la China de 1941 lucha contra los japoneses para lograr comida para los pobres. Pronto se embarcarán en una misión suicida para volar un puente.</desc>
-        <icon src="https://images.pluto.tv/series/5fe9b75d4aa70a001a4fd2c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1ac2591dd8880007bb7d6d" start="20261103155622 +0000" stop="20261103170000 +0000">
+    <programme channel="5f1ac2591dd8880007bb7d6d" start="20261103133922 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Cine Acción</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32132,12 +31917,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>El asesinato de una joven reúne las historias de cinco mujeres: Lonely Arden descubre el cuerpo, Leah cree que la víctima puede ser su hermana desaparecida. Melora cree que es su hija, mientras que Ruth hace un descubrimiento aterrador.</desc>
         <icon src="https://images.pluto.tv/series/63ad6ef9e83c950013967c38/tile_1769042163809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac947dcd00d0007937c08" start="20261103132415 +0000" stop="20261103154044 +0000">
-        <title>El duodécimo hombre</title>
-        <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
-        <icon src="https://images.pluto.tv/series/67b5b8485d2668ecc5083e40/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f1ac947dcd00d0007937c08" start="20261103154044 +0000" stop="20261103170000 +0000">
+    <programme channel="5f1ac947dcd00d0007937c08" start="20261103132415 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Cine Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32157,12 +31937,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Invitados: Anton Urrusolo, Arantza Sinobas, Maite Esparza.</desc>
         <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f28009b150b2500077766b8" start="20261103135100 +0000" stop="20261103152700 +0000">
-        <title>Vaya Semanita: Episode 23</title>
-        <desc>Invitado: Gabino Diego. Monólogo de Andoni. La imagen de la semana con Javier Antón. Parodia Almodóvar con Gabino Diego. Vídeos y sketches. Despedida.</desc>
-        <icon src="https://images.pluto.tv/series/5f44c0738e4fda001a5bcd15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f28009b150b2500077766b8" start="20261103152700 +0000" stop="20261103170000 +0000">
+    <programme channel="5f28009b150b2500077766b8" start="20261103135100 +0000" stop="20261103170000 +0000">
         <title>Vaya semanita</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f28009b150b2500077766b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32172,12 +31947,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Max Smart es el más joven de una familia de inventores. Max siente se siente menos que su hermana mayor y sus padres. Los tres son inteligentes inventores que ganan premios mientras que él nunca ha conseguido ninguno ya que todos sus inventos salen mal.</desc>
         <icon src="https://images.pluto.tv/series/5fe9b72f4aa70a001a4fce30/tile_1769027824025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f6a38eaa5b68b0007a00e7a" start="20261103133544 +0000" stop="20261103152928 +0000">
-        <title>Amor de ida y vuelta</title>
-        <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
-        <icon src="https://images.pluto.tv/series/69fb6f5e4c1064447fbcb08f/tile_1778085727356.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f6a38eaa5b68b0007a00e7a" start="20261103152928 +0000" stop="20261103170000 +0000">
+    <programme channel="5f6a38eaa5b68b0007a00e7a" start="20261103133544 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Sci-Fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32187,22 +31957,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Moriarty se las apaña para robar un vagón entero de tren mientras este estña en marcha para quedarse con el oro que transporta. Holmes, que iba en el tren, se percata de lo que ha hecho el villano, y descubre dónde había escondido en cargamento.</desc>
         <icon src="https://images.pluto.tv/series/6058b2e333e416001a3e42c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="608035b8d8705f0007260287" start="20261103130520 +0000" stop="20261103133220 +0000">
-        <title>Sherlock Homes: Las langostas de coral</title>
-        <desc>Moriarty roba unas langostas hechas de coral con joyas incrustadas, y para despistar los controles de la policía, las camufla entre un cargamento de langostas de verdad. Holmes descubre el plan, y cuando Moriarty va a recuperarlas él ya está esperando.</desc>
-        <icon src="https://images.pluto.tv/series/6058b2e333e416001a3e42c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="608035b8d8705f0007260287" start="20261103133220 +0000" stop="20261103135920 +0000">
-        <title>Sherlock Homes: La estatua de Moriarty</title>
-        <desc>Una gran cantidad de lingotes de oro desaparecen del banco, y la policía no consigue averiguar cómo se ha hecho el robo. Holmes relaciona el robo del oro con la desaparición de un escultor y su hijo, y decide investigar.</desc>
-        <icon src="https://images.pluto.tv/series/6058b2e333e416001a3e42c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="608035b8d8705f0007260287" start="20261103135920 +0000" stop="20261103142620 +0000">
-        <title>Sherlock Homes: La espada del cruzado</title>
-        <desc>Se dice que la espada que guarda la familia Wizard esconde un tesoro. Moriarty deduce que es una inscripción, y le hace una foto, que luego sale velada. Al enterarse del suceso, Holmes llega a la misma conclusión.</desc>
-        <icon src="https://images.pluto.tv/series/6058b2e333e416001a3e42c1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="608035b8d8705f0007260287" start="20261103142620 +0000" stop="20261103170000 +0000">
+    <programme channel="608035b8d8705f0007260287" start="20261103130520 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Anime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/608035b8d8705f0007260287/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32232,12 +31987,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Dos boxeadores pelean por el amor de una mujer.</desc>
         <icon src="https://images.pluto.tv/series/695b7efba16c94716411c6c8/tile_1785406061623.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61373bb45168fe000773eecd" start="20261103130519 +0000" stop="20261103162819 +0000">
-        <title>El Gatopardo</title>
-        <desc>El príncipe de Salina trata de preservar su familia y su clase en medio de los trastornos sociales de la Sicilia de 1860.</desc>
-        <icon src="https://images.pluto.tv/series/63723d3b1ac5b40013b799e9/tile_1768610881488.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="61373bb45168fe000773eecd" start="20261103162819 +0000" stop="20261103170000 +0000">
+    <programme channel="61373bb45168fe000773eecd" start="20261103130519 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Cine Clásico</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61373bb45168fe000773eecd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32247,17 +31997,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Juntando todas las pruebas, Conan consigue descubrir quién se oculta tras la máscara del Barón Nocturno y quién es el asesino.</desc>
         <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="629a066860ef810008267b70" start="20261103132618 +0000" stop="20261103135318 +0000">
-        <title>Detective Conan: El asesinato del mirón</title>
-        <desc>Un hombre es envenenado en la calle. Conan y Kogoro descubren que el tipo ha estado siguiendo últimamente a una chica. ¿Qué es lo que ha pasado y por qué seguía a esa chica?</desc>
-        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="629a066860ef810008267b70" start="20261103135318 +0000" stop="20261103142018 +0000">
-        <title>Detective Conan: El caso de los trillizos asesinos</title>
-        <desc>Un hombre es asesinado y Ran, Conan y Sonoko consiguen ver la cara del asesino. Solo hay un problema ¡hay tres iguales! Conan intentará descubrir cuál de ellos tres es el asesino.</desc>
-        <icon src="https://images.pluto.tv/series/61483c17d393900013051e01/tile_1780997556004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="629a066860ef810008267b70" start="20261103142018 +0000" stop="20261103170000 +0000">
+    <programme channel="629a066860ef810008267b70" start="20261103132618 +0000" stop="20261103170000 +0000">
         <title>Detective Conan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/629a066860ef810008267b70/featuredImage_1780997960365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32267,17 +32007,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Viendo lo bien que Riccardo y Arion dirigen al equipo, Arion duda ser digno del puesto de capitán. Mientras, se ha decidido que su próximo viaje en el tiempo y el espacio tendrá como objetivo encontrar a los jugadores noveno y décimo del Equipo Definitivo</desc>
         <icon src="https://images.pluto.tv/series/611e7e13d91ff50013c301b4/tile_1776175205710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="632c6df43d2bc5000751f621" start="20261103131300 +0000" stop="20261103133900 +0000">
-        <title>Inazuma Eleven Go Chrono Stone: ¡Los caballeros de la tabla redonda!</title>
-        <desc>Los aprendices de caballero Arion y Fei viajan al castillo del Rey Arturo esperando convertirse en caballeros de la Tabla Redonda. Al llegar al castillo, ven que los caballeros no son son otros que sus compañeros del Raimon, con Riccardo de capitán.</desc>
-        <icon src="https://images.pluto.tv/series/611e7e13d91ff50013c301b4/tile_1776175205710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="632c6df43d2bc5000751f621" start="20261103133900 +0000" stop="20261103140500 +0000">
-        <title>Inazuma Eleven Go Chrono Stone: ¡El rey Arturo y la reina de los dragones!</title>
-        <desc>La reina de los dragones, famosa por su gran sabiduría, ha atacado el castillo del rey Arturo. Goldie ve que Skie corre peligro y es capturada por la reina, que se la lleva a la Gruta de la pena.</desc>
-        <icon src="https://images.pluto.tv/series/611e7e13d91ff50013c301b4/tile_1776175205710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="632c6df43d2bc5000751f621" start="20261103140500 +0000" stop="20261103170000 +0000">
+    <programme channel="632c6df43d2bc5000751f621" start="20261103131300 +0000" stop="20261103170000 +0000">
         <title>Inazuma Eleven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32287,12 +32017,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>El malhechor estadounidense Joe January es contratado para llevar a Paul Bonnard en una expedición al desierto en busca de un tesoro.</desc>
         <icon src="https://images.pluto.tv/series/637225536089a700137a9112/tile_1768597921886.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6385e82900ab2e000768a058" start="20261103132715 +0000" stop="20261103150115 +0000">
-        <title>Al sur de San Luis</title>
-        <desc>Rancho Belltiene tres socios. Cuando estalla la Guerra Civil, el lugar es asolado por Luke Cottrell y sus secuaces.</desc>
-        <icon src="https://images.pluto.tv/series/637223ebdf7dfa001350ae6a/tile_1768604041744.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6385e82900ab2e000768a058" start="20261103150115 +0000" stop="20261103170000 +0000">
+    <programme channel="6385e82900ab2e000768a058" start="20261103132715 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Western</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6385e82900ab2e000768a058/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32302,22 +32027,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>La fiesta anual de rodeo ha llegado a South Park. Y los chicos están dispuestos a ganarlo todo.</desc>
         <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d7a8e5a9957100086bfc23" start="20261103130236 +0000" stop="20261103132636 +0000">
-        <title>South Park VOSE: El ayudante del Chef</title>
-        <desc>Tras perder en un gran juicio, Chef se queda sin un duro. Pero tirará de famosos y talentosos amigos, que le ayudarán a resurgir.</desc>
-        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63d7a8e5a9957100086bfc23" start="20261103132636 +0000" stop="20261103135036 +0000">
-        <title>South Park VOSE: El pez espeluznante</title>
-        <desc>La tía Flo viene de visita y le traerá un misetrioso pez mascota para Stan.</desc>
-        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63d7a8e5a9957100086bfc23" start="20261103135036 +0000" stop="20261103141436 +0000">
-        <title>South Park VOSE: ¡Feliz Navidad, Charlie Manson!</title>
-        <desc>ESPECIAL NAVIDEÑO DE SOUTH PARK</desc>
-        <icon src="https://images.pluto.tv/series/64006f6bf9b2f600140faca1/tile_1769128561277.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63d7a8e5a9957100086bfc23" start="20261103141436 +0000" stop="20261103170000 +0000">
+    <programme channel="63d7a8e5a9957100086bfc23" start="20261103130236 +0000" stop="20261103170000 +0000">
         <title>South Park Versión Original</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32327,17 +32037,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Kaiba no solo controla al Dragón Definitivo de Ojos Azules, el monstruo que utilizó para derrotar a Yugi en el Reino de los Duelistas, sino que su carta de Órdenes de Ataque Final deja a Yugi con solo tres cartas en su mazo.</desc>
         <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63eb96754e83e70008ab8941" start="20261103132100 +0000" stop="20261103134600 +0000">
-        <title>Yu-Gi-Oh!: La batalla por el bronce: Parte 1</title>
-        <desc>Cansado de los insultos de Kaiba, Joey desafía a Kaiba para conseguir el tercer puesto en el Torneo de la Ciudad de la Batalla. ¿Habrá dominado Joey suficientes estrategias para acabar con el mandamás o Kaiba machacará a Joey como a un patético cachorro?</desc>
-        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb96754e83e70008ab8941" start="20261103134600 +0000" stop="20261103141100 +0000">
-        <title>Yu-Gi-Oh!: La batalla por el bronce: Parte 2</title>
-        <desc>Kaiba ataca con su poderoso Dragón Blanco de Ojos Azules, pero Joey no tiene monstruos con los que defenderse. La suerte de Joey se ha agotado. ¡Es hora de que confíe en su habilidad!</desc>
-        <icon src="https://images.pluto.tv/series/64a7ce70fdd862001306460d/tile_1774023121747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="63eb96754e83e70008ab8941" start="20261103141100 +0000" stop="20261103170000 +0000">
+    <programme channel="63eb96754e83e70008ab8941" start="20261103132100 +0000" stop="20261103170000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32367,12 +32067,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Molly is struggling with being a new mom, but after meeting Beth, things temporarily improve only to turn as Beth's dark intentions are brought to light.</desc>
         <icon src="https://images.pluto.tv/series/5f4ab3d2fa72a5001a5f79c5/tile_1769023441996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ce480a78df2200131c597b" start="20261103134838 +0000" stop="20261103155438 +0000">
-        <title>A pleno sol</title>
-        <desc>Tom Ripley es un prodigioso impostor, gorrón, falsificador y delincuente de la improvisación en general</desc>
-        <icon src="https://images.pluto.tv/series/636e448036d64a0014593ff0/tile_1769194448286.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65ce480a78df2200131c597b" start="20261103155438 +0000" stop="20261103170000 +0000">
+    <programme channel="65ce480a78df2200131c597b" start="20261103134838 +0000" stop="20261103170000 +0000">
         <title>Pluto TV Psycho</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ce480a78df2200131c597b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32382,12 +32077,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Un médico británico lucha contra una epidemia de cólera en un pequeño pueblo chino, mientras está atrapado en un matrimonio sin amor con una mujer infiel.</desc>
         <icon src="https://images.pluto.tv/series/6735c483b7ea5e0013a68033/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="676e7b4a4bd636000819c6a7" start="20261103131041 +0000" stop="20261103153154 +0000">
-        <title>Fahrenheit 11/9</title>
-        <desc>Michael Moore analiza la política estadounidense y el ascenso de Donald Trump al poder.</desc>
-        <icon src="https://images.pluto.tv/series/6a0b3a534a77e2cd15d917da/tile_1779120724197.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="676e7b4a4bd636000819c6a7" start="20261103153154 +0000" stop="20261103170000 +0000">
+    <programme channel="676e7b4a4bd636000819c6a7" start="20261103131041 +0000" stop="20261103170000 +0000">
         <title>SensaCine TV x Pluto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/featuredImage_1748957676068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32397,17 +32087,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Sanji se encuentra con una cocinera que le desafía a participar en un concurso de cocina que decidirá quién será el mejor cocinero de todo el Mar del Este.</desc>
         <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8992472a7200a183eb5" start="20261103130824 +0000" stop="20261103133415 +0000">
-        <title>One Piece</title>
-        <desc>El payaso Buggy encuentra al fin a Luffy y lo manda ejecutar en el mismo lugar en donde ejecutaron al Rey de los Piratas Gold Roger. Aparecen Zorro y Sanji pero es demasiado tarde...</desc>
-        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="680ba8992472a7200a183eb5" start="20261103133415 +0000" stop="20261103140022 +0000">
-        <title>One Piece</title>
-        <desc>Luffy y compañía quieren abandonar Loguetown cuanto antes para continuar con su rumbo, pero se topan frente a frente con Smoker y Luffy se ve obligado a enfrentarlo.</desc>
-        <icon src="https://images.pluto.tv/series/682da6f003a2ab14dab60caa/tile_1769018405984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="680ba8992472a7200a183eb5" start="20261103140022 +0000" stop="20261103170000 +0000">
+    <programme channel="680ba8992472a7200a183eb5" start="20261103130824 +0000" stop="20261103170000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/featuredImage_1748955630680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32417,22 +32097,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>El Caballero de Andrómeda está a punto de sucumbir ante la frialdad de Mime. Con sus cadenas inutilizadas, Shun decide desprenderse de su Armadura.</desc>
         <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680ba8c3a48b3ead0db701cc" start="20261103130127 +0000" stop="20261103132820 +0000">
-        <title>Saint Seiya</title>
-        <desc>Ikki toma el relevo de Shun y se enfrenta a Mime. Tras recibir la Ilusión Diabólica del Fénix, Mime revela su traumático pasado a sus adversarios.</desc>
-        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="680ba8c3a48b3ead0db701cc" start="20261103132820 +0000" stop="20261103135513 +0000">
-        <title>Saint Seiya</title>
-        <desc>Con su Cosmos intensificado por el dolor del pasado, Mime derrota al Caballero del Fénix, pero éste renace una vez más de sus cenizas.</desc>
-        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="680ba8c3a48b3ead0db701cc" start="20261103135513 +0000" stop="20261103142204 +0000">
-        <title>Saint Seiya</title>
-        <desc>Camino del palacio de Hilda, Seiya encuentra a Marin aprisionada en un bloque de cristal. Se trata de una trampa tendida por Alberich de Megrez.</desc>
-        <icon src="https://mam-assets.clusters.pluto.tv/assets/manual/229d5359-d384-4fbe-baa7-bd3a1eccc147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="680ba8c3a48b3ead0db701cc" start="20261103142204 +0000" stop="20261103170000 +0000">
+    <programme channel="680ba8c3a48b3ead0db701cc" start="20261103130127 +0000" stop="20261103170000 +0000">
         <title>Los caballeros del Zodiaco</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/featuredImage_1791893357316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32442,17 +32107,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Fujiko y un hombre misterioso ofrecen a Lupin un trabajo irresistible: robar una tonelada de lingotes de oro de un banco suizo famoso por su seguridad. ¿Podrá hacerlo? ¿Quién es en realidad el hombre misterioso? ¿Quién se quedará con la última carcajada?</desc>
         <icon src="https://images.pluto.tv/series/698eecfe3d056f16381a59d6/tile_1770974583001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="683457e5f59cc6a13212fce4" start="20261103132711 +0000" stop="20261103135434 +0000">
-        <title>Lupin the 3rd Parte 2</title>
-        <desc>Un hombre amenaza con destruir la Torre de Pisa con un dispositivo que genera terremotos artificiales. El gobierno italiano prepara el rescate, pero Lupin se adelanta y lo roba. Con el criminal descontrolado y armado, ¿qué destino le espera a la Torre?</desc>
-        <icon src="https://images.pluto.tv/series/698eecfe3d056f16381a59d6/tile_1770974583001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="683457e5f59cc6a13212fce4" start="20261103135434 +0000" stop="20261103142155 +0000">
-        <title>Lupin the 3rd Parte 2</title>
-        <desc>Lupin ha robado la máscara funeraria de oro del faraón Tutankamón. Pero al probársela, cae víctima de una antigua y ominosa maldición. ¿Logrará romper el hechizo milenario?</desc>
-        <icon src="https://images.pluto.tv/series/698eecfe3d056f16381a59d6/tile_1770974583001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="683457e5f59cc6a13212fce4" start="20261103142155 +0000" stop="20261103170000 +0000">
+    <programme channel="683457e5f59cc6a13212fce4" start="20261103132711 +0000" stop="20261103170000 +0000">
         <title>Lupin</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/featuredImage_1754485275815.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32462,17 +32117,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Siguiendo las instrucciones del Sr. Popo, Goku parte de en busca de alguien que puede ayudarle a hacerse más fuerte. Pero las apariencias engañan y Goku acaba aprendiendo una importante lección de quien menos lo espera.</desc>
         <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a996c7c4f2ad40cb4f276" start="20261103132344 +0000" stop="20261103135054 +0000">
-        <title>Dragon Ball</title>
-        <desc>Como parte de su entrenamiento, Goku viaja a través del tiempo y conoce al Duende Tortuga en sus años mozos. Mientras Mutenroshi hace de las suyas, Goku trata de aprender una nueva técnica de Mutaito, el maestro de su maestro.</desc>
-        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="685a996c7c4f2ad40cb4f276" start="20261103135054 +0000" stop="20261103141804 +0000">
-        <title>Dragon Ball</title>
-        <desc>Goku descubre que se ha de tener cuidado con lo que se desea cuando le pide un sparring al Sr. Popo y este le proporciona un adversario temible: ¡él mismo! Mientras tanto, Yamcha, Klilyn y los otros ponen rumbo hacia la Torre Karin.</desc>
-        <icon src="https://images.pluto.tv/series/68b163a8b76cf0ad3713469d/tile_1769022001413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="685a996c7c4f2ad40cb4f276" start="20261103141804 +0000" stop="20261103170000 +0000">
+    <programme channel="685a996c7c4f2ad40cb4f276" start="20261103132344 +0000" stop="20261103170000 +0000">
         <title>Dragon Ball</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/featuredImage_1756876796839.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32482,12 +32127,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Las modelos aprenden una secuencia de pelea y actúan en una escena junto al actor y estrella pop internacional Nicholas Tse.</desc>
         <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1780308001693.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd84603ad75cfd132d672" start="20261103133902 +0000" stop="20261103142658 +0000">
-        <title>America's Next Top Model</title>
-        <desc>Las chicas recorren Hong Kong para asistir a go-sees, pero una de ellas pierde la confianza y se derrumba bajo la presión.</desc>
-        <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1780308001693.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="686cd84603ad75cfd132d672" start="20261103142658 +0000" stop="20261103170000 +0000">
+    <programme channel="686cd84603ad75cfd132d672" start="20261103133902 +0000" stop="20261103170000 +0000">
         <title>America's Next Top Model</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/featuredImage_1751963785439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32497,17 +32137,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.</desc>
         <icon src="https://images.pluto.tv/series/5f48a202bbff270013bcc3a8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68de3db35fc0afe85de0b843" start="20261103132111 +0000" stop="20261103135411 +0000">
-        <title>Manu Kas: Buscando a María / Luis Fabra: Nunca digas de esta crisis no beberé</title>
-        <desc>Principal programa de stand-up de Comedy Central, en el que los cómicos más destacados del panorama nacional hacen monólogos cargados de ingenio e ironía, tratando tanto temas de actualidad como universales.</desc>
-        <icon src="https://images.pluto.tv/series/5f48a202bbff270013bcc3a8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68de3db35fc0afe85de0b843" start="20261103135411 +0000" stop="20261103144711 +0000">
-        <title>Open Mike: Open Mike 7 (7/2@Open Mike-)</title>
-        <desc>El programa “Open Mike” es una fórmula inspirada en las clásicas “noches de micro abierto” de los clubs de comedia americanos: un cómico sube al escenario y actúa durante cuatro o cinco minutos, mientras el público aprueba (o no) su recopilación de gags.</desc>
-        <icon src="https://images.pluto.tv/series/5f48a239bbff270013bcc81a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68de3db35fc0afe85de0b843" start="20261103144711 +0000" stop="20261103170000 +0000">
+    <programme channel="68de3db35fc0afe85de0b843" start="20261103132111 +0000" stop="20261103170000 +0000">
         <title>Comedia a lo bestia de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/featuredImage_1759402468158.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32517,22 +32147,7 @@ Estrella Invitada: Damian Lewis.</desc>
         <desc>Charlie intenta demostrarle a la detective privada que puede ponerle los cuernos sin que lo descubra.</desc>
         <icon src="https://images.pluto.tv/series/69fc6f5198d8c86aa4b08095/tile_1783979281949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a0c25d1c3b9403659196293" start="20261103130417 +0000" stop="20261103132846 +0000">
-        <title>Terapia con Charlie</title>
-        <desc>Una friki de la tecnología toma a Charlie como rehén.</desc>
-        <icon src="https://images.pluto.tv/series/69fc6f5198d8c86aa4b08095/tile_1783979281949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a0c25d1c3b9403659196293" start="20261103132846 +0000" stop="20261103135324 +0000">
-        <title>Terapia con Charlie</title>
-        <desc>Charlie ayuda a Nolan a liberar su ira y acaba creando un monstruo.</desc>
-        <icon src="https://images.pluto.tv/series/69fc6f5198d8c86aa4b08095/tile_1783979281949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a0c25d1c3b9403659196293" start="20261103135324 +0000" stop="20261103141754 +0000">
-        <title>Terapia con Charlie</title>
-        <desc>Charlie deja que cinco prostitutas se rehabiliten en su casa.</desc>
-        <icon src="https://images.pluto.tv/series/69fc6f5198d8c86aa4b08095/tile_1783979281949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a0c25d1c3b9403659196293" start="20261103141754 +0000" stop="20261103170000 +0000">
+    <programme channel="6a0c25d1c3b9403659196293" start="20261103130417 +0000" stop="20261103170000 +0000">
         <title>Terapia con Charlie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/featuredImage_1780925529015.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
