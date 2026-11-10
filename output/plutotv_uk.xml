@@ -1236,6 +1236,11 @@
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/68e4c9a0d70c07ace88ec757/tile_1787298641710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="655b7cbb2c46f300086f0afa" start="20261110230000 +0000" stop="20261110231500 +0000">
+        <title>900 Seconds with...</title>
+        <desc>Snooker legend Cliff Thorburn talks about his iconic career, greatest moments and lasting impact on the world of snooker.</desc>
+        <icon src="https://images.pluto.tv/series/6a490413920a04f6d75fb272/tile_1785730128252.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65a7ab137bdc8d0008487dfb" start="20261110162958 +0000" stop="20261110163058 +0000">
         <title>Pluto TV Erotica</title>
         <desc>Every evening, starting at 9 p.m., Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
@@ -25350,6 +25355,11 @@ alone for long.</desc>
         <title>SpaceWalker</title>
         <desc>In the heat of the Cold War, the USA and the USSR fight for supremacy in space, with both superpowers competing to be the first to have a man walk in outer space. Prepare to step into the unknown.</desc>
         <icon src="https://images.pluto.tv/series/5e7378068fcc1c001a56f256/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dc02a44a9518600094273ac" start="20261111130344 +0000" stop="20261111145244 +0000">
+        <title>Donovan's Echo</title>
+        <desc>A series of uncanny déjà vu events force a man to re-examine his tragic past, memory, instinct, and future.</desc>
+        <icon src="https://images.pluto.tv/series/66b4ac389322c00013681863/tile_1790120881973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dc039c65b56d0000945af0e" start="20261111075212 +0000" stop="20261111093212 +0000">
         <title>Christmas Wedding</title>

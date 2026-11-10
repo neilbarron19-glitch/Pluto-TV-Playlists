@@ -9106,6 +9106,11 @@
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/68e4c9a0d70c07ace88ec726/tile_1786097144178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="639b4f75d3d35c0007d37b30" start="20261110230000 +0000" stop="20261110231500 +0000">
+        <title>900 Seconds with...</title>
+        <desc>Snooker legend Cliff Thorburn talks about his iconic career, greatest moments and lasting impact on the world of snooker.</desc>
+        <icon src="https://images.pluto.tv/series/6a490412920a04f6d75fb120/tile_1785729926153.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63f87d057533d80008ab9549" start="20261110163000 +0000" stop="20261110170000 +0000">
         <title>SpongeBob SquarePants</title>
         <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
@@ -9960,6 +9965,11 @@
         <title>David Gilmour - Remember That Night</title>
         <desc>David Gilmour - Remember That Night: Live at the Royal Albert Hall is recorded by guitarist David Gilmour where he presents live tracks from the album On an Island and some hits from his former band Pink Floyd.</desc>
         <icon src="https://images.pluto.tv/series/64f096014bcd33001435f4db/tile_1787328606540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64240d3d466225000827412b" start="20261110213500 +0000" stop="20261111000300 +0000">
+        <title>Paul Simon - Live at iTunes Festival</title>
+        <desc>ITunes Festival is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007.</desc>
+        <icon src="https://images.pluto.tv/series/6ac7318cb60195e27e1129f3/tile_1791454267665.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bdb0bcd707b9000739d2e5" start="20261110201800 +0000" stop="20261110220900 +0000">
         <title>After Everything</title>
@@ -28021,6 +28031,11 @@
         <desc>A schoolteacher and a washed-up musician spring into action to save a group of children from flesh-eating zombies.</desc>
         <icon src="https://images.pluto.tv/series/693ffbd5843d41d249598163/tile_1765800953171.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="691e0561e32eb094b835c418" start="20261111083600 +0000" stop="20261111102800 +0000">
+        <title>Black Butterfly</title>
+        <desc>A down-on-his luck screenwriter picks up a drifter and offers him a place to stay, not knowing that soon he'll become a prisoner, forced to write for a deranged stranger.</desc>
+        <icon src="https://images.pluto.tv/series/6960076ca16c947164e7b2eb/tile_1767901037491.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="69a9ae4d3bd16a4ed04240d7" start="20261111042600 +0000" stop="20261111062000 +0000">
         <title>Montana</title>
         <desc>A hit woman and her sickly boyfriend try to find out who's plotting to kill her boss.</desc>
@@ -45345,6 +45360,11 @@
         <title>Rogue Kill</title>
         <desc>An assassin has a midlife crisis after his contractor takes out a $1 million hit on him, and every assassin in town comes after him.</desc>
         <icon src="https://images.pluto.tv/series/693ffbe1843d41d24959a818/tile_1765800943758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691e0561e32eb094b835c418" start="20261111164200 +0000" stop="20261111183900 +0000">
+        <title>Surveillance</title>
+        <desc>FBI agents (Julia Ormond, Bill Pullman) interrogate witnesses who survive the bloody rampage of two serial killers.</desc>
+        <icon src="https://images.pluto.tv/series/6952c5236a5d6e3860ed1eea/tile_1767032101108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="69a9ae4d3bd16a4ed04240d7" start="20261111120900 +0000" stop="20261111143700 +0000">
         <title>Force 10 From Navarone</title>

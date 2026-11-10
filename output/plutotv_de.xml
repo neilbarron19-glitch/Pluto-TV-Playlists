@@ -1906,6 +1906,11 @@
         <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
         <icon src="https://images.pluto.tv/series/68e4c9a0d70c07ace88ec788/tile_1786097755629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="68ac5543a1ac0c90f2c8943e" start="20261110230000 +0000" stop="20261110231500 +0000">
+        <title>900 Seconds with...</title>
+        <desc>Snooker legend Cliff Thorburn talks about his iconic career, greatest moments and lasting impact on the world of snooker.</desc>
+        <icon src="https://images.pluto.tv/series/6a490415920a04f6d75fb516/tile_1785730473903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="69776ce979545c21a1220bff" start="20261110160741 +0000" stop="20261110170113 +0000">
         <title>Star Trek: The Next Generation</title>
         <desc>Picard riskiert Krieg, als er einem Wissenschaftler, der sich dem Befehl seiner Gesellschaft zum rituellen Selbstmord widersetzt, Asyl gewährt.</desc>
@@ -33387,6 +33392,11 @@ Wohnen, Reisen, Mode und Gesundheit.</desc>
         <title>Zwei bärenstarke Typen</title>
         <desc>Um der Polizei zu entkommen, geben sich zwei Kleinkriminelle am Flughafen als Passagiere aus und geraten dabei in eine geheime CIA-Mission.</desc>
         <icon src="https://images.pluto.tv/series/6a0afc734a77e2cd15ce09de/tile_1779104883907.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64be7398e4391c0008cdedfe" start="20261111123557 +0000" stop="20261111143553 +0000">
+        <title>Der Supercop</title>
+        <desc>Terence Hill spielt den Polizisten Dave Speed, einen Beamten aus Miami, der nach einem Unfall über Superkräfte verfügt und es mit einer Bande von Geldfälschern zu tun hat.</desc>
+        <icon src="https://images.pluto.tv/series/6a0aff54ffc6644289805b9d/tile_1779105621866.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65004605110545000842035d" start="20261111064835 +0000" stop="20261111083853 +0000">
         <title>Banana Joe</title>
